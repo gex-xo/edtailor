@@ -1,0 +1,256 @@
+{
+  "fabrics": [
+    {
+      "name": "Merino Wool",
+      "description": "Fine, soft wool from Merino sheep, known for exceptional comfort and versatility",
+      "fiber_content": "100% Wool",
+      "fiber_type": "Natural",
+      "weight": "Lightweight to Medium",
+      "weave_type": "Various",
+      "drape": "Soft to Moderate",
+      "texture": "Smooth, fine",
+      "care_instructions": "Dry clean recommended. Can hand wash in cool water with wool-specific detergent. Lay flat to dry. Steam iron on wool setting.",
+      "common_uses": "Dress shirts, lightweight suits, base layers, year-round suiting",
+      "properties": {
+        "breathable": true,
+        "moisture_wicking": true,
+        "wrinkle_resistant": true,
+        "insulating": true,
+        "hypoallergenic": true
+      },
+      "season": "Year-round",
+      "image_url": null
+    },
+    {
+      "name": "Worsted Wool",
+      "description": "Tightly spun wool with smooth finish, the standard for professional business attire",
+      "fiber_content": "100% Wool or Wool Blend",
+      "fiber_type": "Natural",
+      "weight": "Medium to Heavy",
+      "weave_type": "Twill or Plain",
+      "drape": "Structured",
+      "texture": "Smooth, compact",
+      "care_instructions": "Dry clean only for structured garments. Steam between wearings. Brush regularly to maintain appearance.",
+      "common_uses": "Business suits, formal trousers, blazers, professional wear",
+      "properties": {
+        "durable": true,
+        "holds_crease": true,
+        "professional_appearance": true,
+        "wrinkle_resistant": true,
+        "shape_retention": true
+      },
+      "season": "Fall, Winter, Spring",
+      "image_url": null
+    },
+    {
+      "name": "Tweed",
+      "description": "Thick, textured wool fabric with rustic charm, traditionally from Scotland",
+      "fiber_content": "100% Wool",
+      "fiber_type": "Natural",
+      "weight": "Heavy",
+      "weave_type": "Twill (various patterns)",
+      "drape": "Structured",
+      "texture": "Coarse, textured, nubby",
+      "care_instructions": "Dry clean. Air out regularly. Brush with stiff brush to remove dirt. Store with moth prevention.",
+      "common_uses": "Casual jackets, country wear, caps, bags, winter outerwear",
+      "properties": {
+        "very_warm": true,
+        "durable": true,
+        "water_resistant": true,
+        "windproof": true,
+        "rustic_aesthetic": true
+      },
+      "season": "Fall, Winter",
+      "image_url": null
+    },
+    {
+      "name": "Cashmere",
+      "description": "Luxuriously soft fiber from cashmere goat undercoat, premium and expensive",
+      "fiber_content": "100% Cashmere",
+      "fiber_type": "Natural",
+      "weight": "Lightweight to Medium",
+      "weave_type": "Knit or Woven",
+      "drape": "Soft",
+      "texture": "Exceptionally soft, smooth",
+      "care_instructions": "Hand wash in cool water with cashmere shampoo or dry clean. Never wring. Lay flat to dry. Store folded, never hanging.",
+      "common_uses": "Luxury coats, sweaters, scarves, high-end suiting",
+      "properties": {
+        "extremely_soft": true,
+        "luxurious": true,
+        "lightweight_warmth": true,
+        "expensive": true,
+        "delicate": true
+      },
+      "season": "Fall, Winter",
+      "image_url": null
+    },
+    {
+      "name": "Cotton Poplin",
+      "description": "Crisp, plain-weave cotton with subtle crosswise rib, ideal for shirts",
+      "fiber_content": "100% Cotton",
+      "fiber_type": "Natural",
+      "weight": "Lightweight to Medium",
+      "weave_type": "Plain weave",
+      "drape": "Moderate",
+      "texture": "Crisp, smooth",
+      "care_instructions": "Machine washable. Iron while slightly damp for best results. Can be starched for extra crispness.",
+      "common_uses": "Dress shirts, blouses, summer dresses, lightweight trousers",
+      "properties": {
+        "breathable": true,
+        "comfortable": true,
+        "easy_care": true,
+        "crisp_finish": true,
+        "affordable": true
+      },
+      "season": "Spring, Summer",
+      "image_url": null
+    },
+    {
+      "name": "Linen",
+      "description": "Natural fiber from flax plant, prized for coolness and natural texture",
+      "fiber_content": "100% Linen",
+      "fiber_type": "Natural",
+      "weight": "Lightweight to Medium",
+      "weave_type": "Plain weave",
+      "drape": "Moderate",
+      "texture": "Textured, slightly irregular",
+      "care_instructions": "Machine wash in cool water. Line dry or tumble low. Iron while damp for crisp finish. Embrace natural wrinkles for casual look.",
+      "common_uses": "Summer suits, casual shirts, dresses, home textiles",
+      "properties": {
+        "extremely_breathable": true,
+        "cool_in_heat": true,
+        "natural_texture": true,
+        "wrinkles_easily": true,
+        "gets_softer_with_use": true
+      },
+      "season": "Summer",
+      "image_url": null
+    },
+    {
+      "name": "Silk Charmeuse",
+      "description": "Luxurious silk with satin weave, glossy front and matte back",
+      "fiber_content": "100% Silk",
+      "fiber_type": "Natural",
+      "weight": "Lightweight",
+      "weave_type": "Satin",
+      "drape": "Very Soft",
+      "texture": "Smooth, lustrous",
+      "care_instructions": "Dry clean recommended. Can hand wash in cool water with silk detergent. Never wring. Roll in towel to remove water, then lay flat. Iron on silk setting while slightly damp.",
+      "common_uses": "Evening wear, blouses, linings, lingerie, luxury garments",
+      "properties": {
+        "luxurious": true,
+        "beautiful_drape": true,
+        "lustrous": true,
+        "delicate": true,
+        "breathable": true
+      },
+      "season": "Year-round",
+      "image_url": null
+    },
+    {
+      "name": "Denim",
+      "description": "Sturdy cotton twill with diagonal ribbing, typically indigo-dyed",
+      "fiber_content": "100% Cotton or Cotton Blend",
+      "fiber_type": "Natural or Blend",
+      "weight": "Medium to Heavy",
+      "weave_type": "Twill",
+      "drape": "Structured",
+      "texture": "Textured, diagonal weave visible",
+      "care_instructions": "Machine wash inside out in cool water. Tumble dry low or line dry. Can fade with washing (often desired). Iron if needed.",
+      "common_uses": "Jeans, jackets, skirts, casual wear, bags",
+      "properties": {
+        "very_durable": true,
+        "casual_aesthetic": true,
+        "improves_with_age": true,
+        "can_fade": true,
+        "versatile": true
+      },
+      "season": "Year-round",
+      "image_url": null
+    },
+    {
+      "name": "Polyester Suiting",
+      "description": "Synthetic fabric often blended with wool for durability and easy care",
+      "fiber_content": "100% Polyester or Poly-Wool Blend",
+      "fiber_type": "Synthetic",
+      "weight": "Medium",
+      "weave_type": "Various",
+      "drape": "Moderate to Structured",
+      "texture": "Smooth",
+      "care_instructions": "Machine washable or dry clean. Wrinkle-resistant. Iron on low setting. Avoid high heat.",
+      "common_uses": "Business wear, uniforms, travel suits, affordable suiting",
+      "properties": {
+        "wrinkle_resistant": true,
+        "durable": true,
+        "affordable": true,
+        "easy_care": true,
+        "less_breathable": true
+      },
+      "season": "Year-round",
+      "image_url": null
+    },
+    {
+      "name": "Canvas",
+      "description": "Heavy-duty plain-weave fabric, extremely durable and sturdy",
+      "fiber_content": "Cotton or Cotton-Poly Blend",
+      "fiber_type": "Natural or Blend",
+      "weight": "Heavy",
+      "weave_type": "Plain weave",
+      "drape": "Very Structured",
+      "texture": "Rough, sturdy",
+      "care_instructions": "Machine wash in warm water. Can withstand heavy use. Iron on high heat. Pre-wash to prevent shrinkage.",
+      "common_uses": "Bags, upholstery, outerwear, workwear, structured garments",
+      "properties": {
+        "extremely_durable": true,
+        "strong": true,
+        "holds_shape": true,
+        "affordable": true,
+        "versatile": true
+      },
+      "season": "Year-round",
+      "image_url": null
+    },
+    {
+      "name": "Viscose/Rayon",
+      "description": "Semi-synthetic fiber made from wood pulp, affordable silk alternative",
+      "fiber_content": "Viscose/Rayon",
+      "fiber_type": "Semi-synthetic",
+      "weight": "Lightweight to Medium",
+      "weave_type": "Various",
+      "drape": "Soft",
+      "texture": "Smooth, silky",
+      "care_instructions": "Dry clean or hand wash in cold water. Can shrink. Lay flat to dry. Iron on low setting while damp.",
+      "common_uses": "Dresses, blouses, linings, affordable draping garments",
+      "properties": {
+        "affordable": true,
+        "soft_drape": true,
+        "breathable": true,
+        "can_shrink": true,
+        "wrinkles_easily": true
+      },
+      "season": "Spring, Summer, Fall",
+      "image_url": null
+    },
+    {
+      "name": "Jersey Knit",
+      "description": "Stretchy knit fabric, comfortable and body-skimming",
+      "fiber_content": "Cotton, Wool, or Synthetic",
+      "fiber_type": "Various",
+      "weight": "Lightweight to Medium",
+      "weave_type": "Knit",
+      "drape": "Soft",
+      "texture": "Smooth, slightly stretchy",
+      "care_instructions": "Machine wash gentle cycle. Do not wring. Lay flat or hang to dry. Low heat iron or steam.",
+      "common_uses": "T-shirts, dresses, casual wear, athletic wear, comfortable garments",
+      "properties": {
+        "comfortable": true,
+        "stretchy": true,
+        "body_skimming": true,
+        "wrinkle_resistant": true,
+        "easy_care": true
+      },
+      "season": "Year-round",
+      "image_url": null
+    }
+  ]
+}

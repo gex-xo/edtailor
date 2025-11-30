@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "name": "Tailoring Fundamentals",
+      "slug": "tailoring-fundamentals",
+      "description": "Master the essential skills and techniques that form the foundation of professional tailoring",
+      "icon_url": null
+    },
+    {
+      "name": "Fabrics & Materials",
+      "slug": "fabrics-materials",
+      "description": "Comprehensive guide to understanding fabric types, properties, and their applications in garment making",
+      "icon_url": null
+    },
+    {
+      "name": "Garment Construction",
+      "slug": "garment-construction",
+      "description": "Learn professional techniques for constructing well-fitted, durable garments from start to finish",
+      "icon_url": null
+    },
+    {
+      "name": "Fashion Terminology",
+      "slug": "fashion-terminology",
+      "description": "Essential vocabulary and terms used by professional tailors and fashion designers",
+      "icon_url": null
+    }
+  ],
+  "topics": [
+    {
+      "category_slug": "tailoring-fundamentals",
+      "name": "Essential Hand Stitches",
+      "slug": "essential-hand-stitches",
+      "description": "Master the fundamental hand stitching techniques every tailor must know"
+    },
+    {
+      "category_slug": "tailoring-fundamentals",
+      "name": "Taking Measurements",
+      "slug": "taking-measurements",
+      "description": "Learn precise measurement techniques for custom-fitted garments"
+    },
+    {
+      "category_slug": "tailoring-fundamentals",
+      "name": "Pressing Techniques",
+      "slug": "pressing-techniques",
+      "description": "Professional pressing methods for crisp edges and smooth finishes"
+    },
+    {
+      "category_slug": "fabrics-materials",
+      "name": "Natural Fibers",
+      "slug": "natural-fibers",
+      "description": "Understanding cotton, wool, silk, and linen - properties and applications"
+    },
+    {
+      "category_slug": "fabrics-materials",
+      "name": "Synthetic Fibers",
+      "slug": "synthetic-fibers",
+      "description": "Guide to polyester, nylon, and other man-made fabrics"
+    },
+    {
+      "category_slug": "fabrics-materials",
+      "name": "Fabric Properties",
+      "slug": "fabric-properties",
+      "description": "Understanding weight, drape, breathability, and other key characteristics"
+    },
+    {
+      "category_slug": "garment-construction",
+      "name": "Seaming Methods",
+      "slug": "seaming-methods",
+      "description": "Different types of seams and when to use them"
+    },
+    {
+      "category_slug": "garment-construction",
+      "name": "Darts and Shaping",
+      "slug": "darts-shaping",
+      "description": "Creating three-dimensional shapes from flat fabric"
+    },
+    {
+      "category_slug": "garment-construction",
+      "name": "Jacket Construction",
+      "slug": "jacket-construction",
+      "description": "Professional techniques for constructing tailored jackets"
+    }
+  ],
+  "lessons": [
+    {
+      "topic_slug": "essential-hand-stitches",
+      "title": "Running Stitch: The Foundation",
+      "slug": "running-stitch-foundation",
+      "summary": "Learn the most basic yet versatile stitch used for temporary or permanent seaming",
+      "content": "## Running Stitch: The Foundation\n\nThe running stitch is one of the most fundamental hand stitches in tailoring. It's created by weaving the needle in and out of the fabric at regular intervals.\n\n### When to Use\n- Temporary basting before machine sewing\n- Gathering fabric\n- Lightweight seams\n- Quilting\n\n### How to Execute\n1. Thread your needle and knot the end\n2. Insert needle from back to front\n3. Make small, even stitches (3-5mm each)\n4. Keep stitches consistent in length\n5. Pull thread gently to avoid puckering\n\n### Professional Tips\n- For basting, use contrasting thread for easy removal\n- Smaller stitches = stronger seam\n- Practice maintaining even spacing\n\nSource: Based on techniques from [Class Central Tailoring Courses](https://www.classcentral.com/subject/tailoring) and [Tailor Academy](https://www.tailor-academy.com/basic-sewing-course-beginners/)",
+      "reading_time_minutes": 5,
+      "difficulty_level": "Beginner",
+      "image_url": null
+    },
+    {
+      "topic_slug": "essential-hand-stitches",
+      "title": "Backstitch for Strength",
+      "slug": "backstitch-strength",
+      "summary": "Master the backstitch - the strongest hand stitch for seams under stress",
+      "content": "## Backstitch: Maximum Strength\n\nThe backstitch is the strongest hand stitch, creating a seam as durable as machine stitching. Essential for areas under stress or when machine sewing isn't possible.\n\n### Why Use Backstitch\n- Creates extremely strong seams\n- Ideal for areas under tension\n- Perfect for repairs\n- Alternative to machine stitching\n\n### Technique\n1. Bring needle up through fabric\n2. Insert needle one stitch length behind\n3. Bring needle up one stitch length ahead\n4. Repeat, creating overlapping stitches\n5. Stitches should touch on top surface\n\n### Applications\n- Attaching zippers by hand\n- Reinforcing stress points\n- Repairs in difficult-to-reach areas\n- Creating durable seams in thick fabrics\n\n### Pro Insight\nBackstitch creates a continuous line of thread on the top surface while overlapping on the underside, distributing stress evenly along the seam.\n\nSource: Techniques from [FIT Clothing Construction Guide](https://fitnyc.libguides.com/clothing_construction/basic_sewing)",
+      "reading_time_minutes": 7,
+      "difficulty_level": "Beginner",
+      "image_url": null
+    },
+    {
+      "topic_slug": "essential-hand-stitches",
+      "title": "Slip Stitch: The Invisible Finish",
+      "slug": "slip-stitch-invisible",
+      "summary": "Learn to create nearly invisible hems and closures with the slip stitch",
+      "content": "## Slip Stitch: The Invisible Finish\n\nThe slip stitch (also called blind stitch) creates an almost invisible seam, perfect for professional hemming and finishing.\n\n### Ideal Uses\n- Hemming trousers and skirts\n- Closing openings in linings\n- Attaching bindings\n- Finishing pillow covers\n\n### The Technique\n1. Fold hem to desired position\n2. Bring needle through folded edge\n3. Pick up 1-2 threads from garment fabric\n4. Slide needle through fold for 3-5mm\n5. Repeat, keeping stitches loose\n\n### Keys to Invisibility\n- Use thread matching fabric color\n- Pick up minimal fabric threads\n- Don't pull stitches too tight\n- Keep consistent stitch length\n- Hide knots inside folds\n\n### Common Mistakes to Avoid\n- Pulling too tightly (creates puckering)\n- Picking up too much fabric (visible from right side)\n- Inconsistent stitch spacing\n\n### Professional Application\nSlip stitch is the hallmark of quality tailoring. A properly executed slip-stitched hem should be barely detectable from the garment's right side.\n\nSource: Professional techniques from [Textile School](https://www.textileschool.com/258/garment-construction-techniques/)",
+      "reading_time_minutes": 8,
+      "difficulty_level": "Intermediate",
+      "image_url": null
+    },
+    {
+      "topic_slug": "fabric-properties",
+      "title": "Understanding Fabric Weight",
+      "slug": "understanding-fabric-weight",
+      "summary": "Learn how fabric weight affects drape, structure, and garment suitability",
+      "content": "## Understanding Fabric Weight\n\nFabric weight is measured in grams per square metre (gsm) or ounces per yard, and it fundamentally affects how your garment will look, feel, and perform.\n\n### Weight Categories\n\n**Lightweight (< 150 gsm)**\n- Characteristics: Delicate, flows easily, transparent\n- Examples: Chiffon, organza, voile\n- Best for: Summer dresses, blouses, linings\n\n**Medium Weight (150-350 gsm)**\n- Characteristics: Versatile, moderate drape\n- Examples: Cotton poplin, linen, light wool\n- Best for: Shirts, dresses, light trousers\n\n**Heavy Weight (> 350 gsm)**\n- Characteristics: Structured, holds shape, warm\n- Examples: Denim, canvas, heavy wool\n- Best for: Jackets, coats, upholstery\n\n### How Weight Affects Your Design\n\n**Drape**: Lighter fabrics flow and create movement; heavier fabrics maintain structure and volume.\n\n**Warmth**: Heavier fabrics generally provide more insulation, making them ideal for winter garments.\n\n**Sewing Considerations**: Heavy fabrics require stronger needles, longer stitch length, and more pressing.\n\n### Professional Selection\n- Formal suits: Medium to heavy wool (250-400 gsm)\n- Summer shirts: Lightweight cotton (100-150 gsm)\n- Winter coats: Heavy wool or blends (400+ gsm)\n\n### Practical Tip\nAlways test fabric drape before purchasing. Hold a meter of fabric and observe how it falls - this tells you more than gsm numbers alone.\n\nSource: Based on [Fashion Design Institute Fabric Guide](https://www.thefashiondesigninstitute.com/us/en/blog-a-designers-guide-to-textiles-and-their-properties) and [Hawthorn Fabric Guide](https://www.hawthornintl.com/fabric-guide)",
+      "reading_time_minutes": 10,
+      "difficulty_level": "Intermediate",
+      "image_url": null
+    },
+    {
+      "topic_slug": "fabric-properties",
+      "title": "Drape: From Fluid to Structured",
+      "slug": "drape-fluid-to-structured",
+      "summary": "Understanding how different fabrics fall and move",
+      "content": "## Drape: From Fluid to Structured\n\nDrape describes how fabric falls and moves when hanging. It's one of the most important properties to consider when selecting fabric for a design.\n\n### Soft Drape Fabrics\n\n**Characteristics**: Fall gently, create fluid movement, conform to body\n\n**Examples**:\n- Silk charmeuse: Luxurious flow, elegant movement\n- Rayon: Affordable alternative to silk\n- Jersey knit: Comfortable, body-skimming\n- Viscose: Soft hand, beautiful drape\n\n**Best For**: Evening gowns, flowing dresses, soft blouses, draped designs\n\n### Moderate Drape Fabrics\n\n**Characteristics**: Balanced between flow and structure\n\n**Examples**:\n- Cotton poplin: Crisp yet flexible\n- Linen: Natural texture, moderate body\n- Lightweight wool: Tailored but not stiff\n\n**Best For**: Shirts, day dresses, lightweight trousers\n\n### Structured/Firm Drape Fabrics\n\n**Characteristics**: Hold shape, create volume, stand away from body\n\n**Examples**:\n- Taffeta: Crisp, holds pleats beautifully\n- Canvas: Maximum structure\n- Heavy wool: Ideal for tailoring\n- Denim: Structured casual wear\n\n**Best For**: Tailored jackets, full skirts, structured dresses, bags\n\n### The Drape Test\n\n1. Hold fabric at one corner\n2. Observe how it falls\n3. Note: Does it flow? Hold shape? Create folds?\n4. Imagine on the body\n\n### Design Implications\n\n**Gathering**: Soft drape fabrics gather beautifully without bulk\n**Pleating**: Structured fabrics hold crisp pleats\n**Tailoring**: Moderate drape allows shaping while maintaining structure\n\n### Professional Insight\nThe same pattern will create dramatically different garments depending on fabric drape. A flowing fabric creates romance; structured fabric creates authority.\n\nSource: Information from [Rock of Eye Fabric Guide](https://www.rockofeye.ai/post/understanding-fabric-properties-a-guide-for-tailors)",
+      "reading_time_minutes": 12,
+      "difficulty_level": "Intermediate",
+      "image_url": null
+    },
+    {
+      "topic_slug": "natural-fibers",
+      "title": "Wool: The Versatile Natural Fiber",
+      "slug": "wool-versatile-natural-fiber",
+      "summary": "Discover why wool is the premier choice for tailored garments",
+      "content": "## Wool: The Versatile Natural Fiber\n\nWool is the gold standard for tailored garments, offering unique properties that make it ideal for everything from summer suits to winter overcoats.\n\n### Why Wool Excels in Tailoring\n\n**Natural Properties**:\n- **Insulation**: Traps air for warmth in winter\n- **Breathability**: Allows air circulation\n- **Moisture-wicking**: Absorbs up to 30% of its weight in moisture\n- **Wrinkle-resistant**: Natural elasticity helps fabric recover\n- **Flame-resistant**: Natural safety feature\n\n### Types of Wool\n\n**Merino Wool**\n- Source: Merino sheep\n- Characteristics: Fine, soft, lightweight\n- Best for: Dress shirts, lightweight suits, base layers\n- Season: Year-round, especially summer\n\n**Worsted Wool**\n- Processing: Tightly spun, smooth finish\n- Characteristics: Durable, holds crease, professional appearance\n- Best for: Business suits, trousers\n- Weight range: 250-350 gsm\n\n**Tweed**\n- Characteristics: Thick, textured, rustic\n- Patterns: Herringbone, houndstooth, checks\n- Best for: Casual jackets, country wear\n- Season: Fall and winter\n\n**Cashmere**\n- Source: Cashmere goat undercoat\n- Characteristics: Exceptionally soft, luxurious, expensive\n- Best for: Luxury coats, scarves\n- Care: Delicate, requires special handling\n\n### Wool Blends\n\n**Wool-Polyester** (70/30 or 80/20)\n- Benefits: More durable, wrinkle-resistant, affordable\n- Trade-off: Less breathable than pure wool\n- Best for: Business wear, frequent travelers\n\n**Wool-Silk**\n- Benefits: Added luster, smoother feel\n- Best for: Luxury suiting\n\n**Wool-Linen**\n- Benefits: Enhanced breathability\n- Best for: Summer suits\n\n### Selecting Wool for Projects\n\n**Formal Business Suit**: Worsted wool, 280-320 gsm, smooth finish\n**Winter Coat**: Heavy wool or tweed, 400+ gsm\n**Summer Suit**: Lightweight merino or tropical wool, 200-240 gsm\n**Casual Jacket**: Tweed or flannel, textured finish\n\n### Care Instructions\n\n1. **Dry clean** for structured garments\n2. **Steam** rather than iron directly\n3. **Air out** between wearings\n4. **Store** with cedar or lavender (moth prevention)\n5. **Brush** regularly to remove dirt and refresh fibers\n\n### Professional Insight\n\nWool's ability to be shaped with heat and steam (a process called \"blocking\") makes it essential for tailoring. The fiber's natural memory allows tailors to create permanent shapes in lapels, chest, and shoulders.\n\nSource: Based on professional guidance from [Michael Tailors](https://michaeltailors.com/the-art-of-selecting-fabrics-for-tailored-clothing/) and [MasterClass Fabric Guide](https://www.masterclass.com/articles/28-types-of-fabrics-and-their-uses)",
+      "reading_time_minutes": 15,
+      "difficulty_level": "Intermediate",
+      "image_url": null
+    },
+    {
+      "topic_slug": "seaming-methods",
+      "title": "The Plain Seam: Foundation of Construction",
+      "slug": "plain-seam-foundation",
+      "summary": "Master the most common seaming method used in garment construction",
+      "content": "## The Plain Seam: Foundation of Construction\n\nThe plain seam (also called superimposed seam) is the most fundamental and commonly used seam in garment construction. Mastering this technique is essential for all tailoring work.\n\n### What is a Plain Seam?\n\nA plain seam is created when two pieces of fabric are placed right sides together and stitched along the edge, creating a seam on the inside of the garment.\n\n### Basic Construction\n\n1. **Align fabric pieces** right sides together\n2. **Pin** perpendicular to seam line\n3. **Stitch** at appropriate seam allowance (typically 1.5cm or 5/8\")\n4. **Press** seam open or to one side\n5. **Finish** raw edges to prevent fraying\n\n### Seam Allowances\n\n**Standard Allowances**:\n- 1.5cm (5/8\"): Most common in garment sewing\n- 1cm (3/8\"): Lightweight fabrics, tight curves\n- 2cm (3/4\"): Heavy fabrics, areas needing adjustment\n\n### Finishing Methods\n\n**Pinked Edges**\n- Tools: Pinking shears\n- Best for: Fabrics that don't fray easily\n- Method: Trim seam allowance with zigzag cuts\n\n**Zigzag Stitch**\n- Tools: Sewing machine with zigzag capability\n- Best for: Medium-weight woven fabrics\n- Method: Stitch along raw edge\n\n**Serging/Overlocking**\n- Tools: Serger/overlock machine\n- Best for: Knits, fabrics that fray\n- Method: Trims and wraps edges simultaneously\n\n**French Seam** (for delicate fabrics)\n- Encases raw edges completely\n- Creates very neat finish\n- Best for: Sheer fabrics, unlined garments\n\n### Pressing Techniques\n\n**Press Open**: \n- When: Most tailored garments\n- Why: Reduces bulk, creates flat finish\n- How: Press seam flat, then open each allowance to opposite sides\n\n**Press to One Side**:\n- When: Topstitching, curved seams\n- Why: Adds strength, easier for topstitching\n- How: Press both allowances together to one side\n\n### Common Issues and Solutions\n\n**Puckering**\n- Cause: Thread tension too tight, fabric stretched while sewing\n- Solution: Adjust tension, don't pull fabric\n\n**Uneven Seam**\n- Cause: Fabric layers shifting\n- Solution: Pin more frequently, use walking foot\n\n**Visible Stitches on Right Side**\n- Cause: Seam allowance too narrow\n- Solution: Use appropriate seam allowance, press carefully\n\n### Professional Tips\n\n1. **Always test** on fabric scraps first\n2. **Use quality thread** matching fabric weight\n3. **Press as you go** - never cross an unpressed seam\n4. **Trim corners** before turning right-side out\n5. **Grade seams** (trim to different widths) to reduce bulk\n\n### When to Use\n\n- Side seams in shirts and dresses\n- Shoulder seams\n- Sleeve seams  \n- Trouser inseams and outseams\n- Most general construction\n\nThe plain seam is truly the foundation of garment construction. Master this, and you've mastered the building block of tailoring.\n\nSource: Techniques from [Textile School Garment Construction](https://www.textileschool.com/258/garment-construction-techniques/) and [FIT Construction Guide](https://fitnyc.libguides.com/clothing_construction)",
+      "reading_time_minutes": 12,
+      "difficulty_level": "Beginner",
+      "image_url": null
+    },
+    {
+      "topic_slug": "darts-shaping",
+      "title": "Understanding Darts: Creating Shape from Flat Fabric",
+      "slug": "understanding-darts-shape",
+      "summary": "Learn how darts create three-dimensional form to fit the human body",
+      "content": "## Understanding Darts: Creating Shape from Flat Fabric\n\nDarts are one of the most important tools in a tailor's arsenal, allowing us to transform flat fabric into three-dimensional garments that fit the curves of the human body.\n\n### What is a Dart?\n\nA dart is a triangular fold of fabric that is stitched to create shape. By removing excess fabric in strategic locations, darts create the curves needed to fit the bust, waist, hips, and other body contours.\n\n### Types of Darts\n\n**Single-Point Dart**\n- Shape: Triangle with one point, one wide end\n- Common locations: Bust, shoulder, waist\n- Use: Most common dart type\n\n**Double-Point Dart** (Fish dart/Contour dart)\n- Shape: Diamond shape with points at both ends\n- Common locations: Fitted waistline of dresses\n- Use: Shaping from both bust and hip\n\n**French Dart**\n- Location: Diagonal from side seam toward bust\n- Style: Elegant, lengthening\n- Use: Sophisticated fitted garments\n\n### Key Dart Locations\n\n**Bodice**:\n- Shoulder dart: Accommodates bust, creates shape\n- Bust dart: Primary shaping for women's garments\n- Waist dart: Creates fitted silhouette\n\n**Skirt/Trousers**:\n- Waist dart: Fits waist while accommodating hips\n- Hip dart: Creates smooth fit over hips\n\n**Jacket**:\n- Back shoulder: Fits across shoulder blades\n- Side body: Creates shaped waist\n\n### Construction Technique\n\n**Marking**:\n1. Transfer dart markings from pattern to fabric\n2. Mark dart legs and point accurately\n3. Use tailor's tacks or chalk for visibility\n\n**Stitching**:\n1. Fold fabric right sides together, aligning dart legs\n2. Pin from wide end to point\n3. Stitch from wide end, reducing to nothing at point\n4. DO NOT backstitch at point (creates bulk)\n5. Leave thread tails to tie off\n\n**Finishing**:\n1. Tie off threads at dart point with square knot\n2. Press dart flat as stitched\n3. Then press toward center (vertical darts) or down (horizontal darts)\n4. For heavy fabrics, slash and press open\n\n### Pressing Direction Guidelines\n\n**Vertical darts** (bust, shoulder): Press toward center\n**Horizontal darts** (waist, back): Press downward\n**Double-point darts**: Clip at widest point, press opposite directions\n\n### Common Mistakes\n\n**Puckering at Dart Point**\n- Cause: Backstitching at point, stitching past point\n- Solution: Taper to nothing, tie off threads\n\n**Twisted Dart**\n- Cause: Dart legs not aligned when folding\n- Solution: Pin carefully, check alignment before stitching\n\n**Visible Dart on Right Side**\n- Cause: Poor pressing\n- Solution: Press thoroughly with steam, use pressing ham\n\n### Advanced Techniques\n\n**Dart Manipulation**\nDarts can be moved to different locations while maintaining the same fit:\n- Bust dart can originate from shoulder, side, waist, or armhole\n- Moving darts changes the style while keeping fit\n\n**Dart Equivalents**\n- Gathers: Soft alternative to darts\n- Pleats: Structured alternative\n- Princess seams: Darts hidden in seams\n- Ease: Very subtle shaping without visible darts\n\n### Fitting Considerations\n\n**Too Much Shape**: Dart too large creates puckering\n**Too Little Shape**: Fabric pulls and strains\n**Wrong Position**: Dart doesn't align with body curves\n\n### Professional Insight\n\nThe dart should always point toward the fullest part of the body curve it's shaping. For bust darts, this means ending 2-3cm before the bust point for the most flattering fit.\n\nMastering darts is essential for creating professionally fitted garments. They're the difference between a garment that merely covers the body and one that truly fits.\n\nSource: Based on techniques from [StudySmarter Garment Construction](https://www.studysmarter.co.uk/explanations/art-and-design/fashion/garment-construction/) and [Textile School](https://www.textileschool.com/258/garment-construction-techniques/)",
+      "reading_time_minutes": 14,
+      "difficulty_level": "Intermediate",
+      "image_url": null
+    }
+  ]
+}

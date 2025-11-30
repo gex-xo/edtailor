@@ -1,0 +1,172 @@
+{
+  "terms": [
+    {
+      "term": "Basting",
+      "definition": "Temporary stitching using long, easily removable stitches to hold fabric in place during fitting or before permanent sewing. Essential for alterations and custom tailoring.",
+      "category": "Construction",
+      "pronunciation": "BAY-sting",
+      "image_url": null
+    },
+    {
+      "term": "Gorge",
+      "definition": "The seam where the jacket collar meets the lapel. The height and angle of the gorge significantly affects the jacket's style and formality.",
+      "category": "Tailoring",
+      "pronunciation": "GORJ",
+      "image_url": null
+    },
+    {
+      "term": "Scye",
+      "definition": "The armhole of a jacket or shirt where the sleeve is attached. Proper scye measurement and construction is crucial for comfort and range of motion.",
+      "category": "Tailoring",
+      "pronunciation": "SYE",
+      "image_url": null
+    },
+    {
+      "term": "Break",
+      "definition": "How much of the trouser leg rests on top of the shoe. Options include no break (modern, shorter), slight break (contemporary), medium break (traditional), or full break (one full fold over shoe).",
+      "category": "Tailoring",
+      "pronunciation": "BRAYK",
+      "image_url": null
+    },
+    {
+      "term": "Suppress",
+      "definition": "Tailoring technique of tapering or cinching a jacket's waist to create a more defined V-shape silhouette and emphasize the torso.",
+      "category": "Alterations",
+      "pronunciation": "suh-PRESS",
+      "image_url": null
+    },
+    {
+      "term": "Pad Stitching",
+      "definition": "Hand-sewing technique using small diagonal stitches to attach interfacing to fabric, creating the roll and shape in lapels and collars. Hallmark of quality tailoring.",
+      "category": "Construction",
+      "pronunciation": "PAD STICH-ing",
+      "image_url": null
+    },
+    {
+      "term": "Canvas",
+      "definition": "Layer of stiff fabric (traditionally horsehair and wool) placed between the outer fabric and lining of a jacket to provide structure and shape. Full canvas extends throughout chest; half canvas only in chest area; fused uses glued interfacing instead.",
+      "category": "Construction",
+      "pronunciation": "KAN-vuhs",
+      "image_url": null
+    },
+    {
+      "term": "Bias",
+      "definition": "The diagonal direction of fabric, at 45 degrees to the selvage. Fabric cut on the bias has maximum stretch and drape, used for binding edges and creating fluid garments.",
+      "category": "Construction",
+      "pronunciation": "BYE-us",
+      "image_url": null
+    },
+    {
+      "term": "Selvage/Selvedge",
+      "definition": "The finished edge of woven fabric that runs parallel to the warp threads. Doesn't fray and indicates the straight grain of the fabric.",
+      "category": "Construction",
+      "pronunciation": "SEL-vij",
+      "image_url": null
+    },
+    {
+      "term": "Grain",
+      "definition": "The direction of threads in woven fabric. Lengthwise grain runs parallel to selvage (warp threads), crosswise grain runs perpendicular to selvage (weft threads), and bias is diagonal.",
+      "category": "Construction",
+      "pronunciation": "GRAYN",
+      "image_url": null
+    },
+    {
+      "term": "Nap",
+      "definition": "The raised surface on fabric created by fiber ends, giving directional texture. Velvet, corduroy, and some wools have nap. All pattern pieces must be cut in same direction for consistent appearance.",
+      "category": "Construction",
+      "pronunciation": "NAP",
+      "image_url": null
+    },
+    {
+      "term": "Notch",
+      "definition": "Small V-shaped cut in seam allowance used to mark pattern placement or clip curves. Also refers to the notch lapel style where collar and lapel meet at an angle.",
+      "category": "Construction",
+      "pronunciation": "NOCH",
+      "image_url": null
+    },
+    {
+      "term": "Peak Lapel",
+      "definition": "Lapel style where the lapel points upward toward the shoulder. More formal than notch lapel, commonly seen on double-breasted jackets and tuxedos.",
+      "category": "Design",
+      "pronunciation": "PEEK LAY-pul",
+      "image_url": null
+    },
+    {
+      "term": "Shawl Collar",
+      "definition": "Rounded collar and lapel cut as one continuous piece without a gorge seam. Most formal lapel style, typically seen on tuxedos and smoking jackets.",
+      "category": "Design",
+      "pronunciation": "SHAWL KAH-ler",
+      "image_url": null
+    },
+    {
+      "term": "Placket",
+      "definition": "The opening or slit in a garment, usually with finished edges. Common on shirt fronts (button placket), cuffs, and necklines.",
+      "category": "Construction",
+      "pronunciation": "PLAK-it",
+      "image_url": null
+    },
+    {
+      "term": "Yoke",
+      "definition": "Fitted part of a garment at the shoulders or hips from which the rest of the garment hangs. Shirt yokes provide shoulder shaping and decorative detail.",
+      "category": "Construction",
+      "pronunciation": "YOHK",
+      "image_url": null
+    },
+    {
+      "term": "Gusset",
+      "definition": "Triangular or diamond-shaped piece of fabric inserted to add strength or allow movement in areas of stress, such as underarms or crotch.",
+      "category": "Construction",
+      "pronunciation": "GUH-sit",
+      "image_url": null
+    },
+    {
+      "term": "Interfacing",
+      "definition": "Layer of fabric placed between outer fabric and lining to add structure, support, and shape. Can be sewn-in or fusible (iron-on). Essential in collars, cuffs, and waistbands.",
+      "category": "Construction",
+      "pronunciation": "IN-ter-fay-sing",
+      "image_url": null
+    },
+    {
+      "term": "Underlining",
+      "definition": "Layer of fabric cut identically to garment pieces and treated as one with the fashion fabric during construction. Adds body and structure throughout entire garment.",
+      "category": "Construction",
+      "pronunciation": "UN-der-ly-ning",
+      "image_url": null
+    },
+    {
+      "term": "Grade",
+      "definition": "To trim seam allowances to different widths to reduce bulk, especially important in curved seams and thick fabrics. Creates smoother, flatter seams.",
+      "category": "Construction",
+      "pronunciation": "GRAYD",
+      "image_url": null
+    },
+    {
+      "term": "Ease",
+      "definition": "Extra fullness worked into a seam to create shape without gathers or darts. Essential for setting sleeves and creating curved seams. Also refers to wearing ease - extra room beyond body measurements for comfort and movement.",
+      "category": "Construction",
+      "pronunciation": "EEZ",
+      "image_url": null
+    },
+    {
+      "term": "Bespoke",
+      "definition": "Custom-made garment created from scratch for individual client with multiple fittings. True bespoke involves hand-cut pattern and significant handwork. Highest level of custom tailoring.",
+      "category": "Tailoring",
+      "pronunciation": "bih-SPOHK",
+      "image_url": null
+    },
+    {
+      "term": "Made-to-Measure",
+      "definition": "Garment created from existing pattern adjusted to individual measurements. Less expensive than bespoke with fewer fittings, but still customized to client.",
+      "category": "Tailoring",
+      "pronunciation": "MAYD-too-MEH-zher",
+      "image_url": null
+    },
+    {
+      "term": "Pick Stitching",
+      "definition": "Decorative hand stitching technique creating small, evenly spaced stitches along lapel edges and pockets. Sign of quality tailoring and hand-finishing.",
+      "category": "Tailoring",
+      "pronunciation": "PIK STICH-ing",
+      "image_url": null
+    }
+  ]
+}

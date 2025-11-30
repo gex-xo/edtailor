@@ -1,0 +1,81 @@
+{
+  "garments": [
+    {
+      "name": "Single-Breasted Suit Jacket",
+      "description": "Classic suit jacket with single row of buttons and overlapping front panels",
+      "garment_type": "Outerwear",
+      "formality_level": "Formal",
+      "construction_details": "Structured with canvas interlining, pad-stitched lapels, functional buttonholes on sleeves. Features chest pocket, flap pockets, and interior pockets. Shoulder construction can be natural, roped, or padded.",
+      "key_features": "Notch or peak lapels, 1-3 button configurations (2-button most common), center vent or side vents, structured shoulders",
+      "historical_context": "Evolved from military and riding coats in the 19th century. The modern single-breasted jacket became standard business wear in the 20th century.",
+      "styling_tips": "Two-button jackets are most versatile for business. Button only top button when standing. Jacket should lightly touch shoulders when worn. Sleeve should show 1-1.5cm of shirt cuff.",
+      "image_url": null
+    },
+    {
+      "name": "Double-Breasted Jacket",
+      "description": "Formal jacket with two parallel columns of buttons and wide overlap",
+      "garment_type": "Outerwear",
+      "formality_level": "Formal",
+      "construction_details": "Similar construction to single-breasted but with wider front overlap requiring additional fabric. Peak lapels most common. Requires precise balance and button placement.",
+      "key_features": "4-6 buttons (typically 6x2 or 4x2 configuration), peak lapels, wider front overlap, more formal appearance",
+      "historical_context": "Originally naval and military wear. Became civilian formal wear in 1930s-40s. Experienced resurgence in 1980s and contemporary fashion.",
+      "styling_tips": "Keep buttoned when standing (unlike single-breasted). Best worn by taller individuals due to visual weight. Extremely formal and authoritative appearance.",
+      "image_url": null
+    },
+    {
+      "name": "Dress Shirt",
+      "description": "Formal shirt designed to be worn with suits or under jackets",
+      "garment_type": "Shirt",
+      "formality_level": "Business",
+      "construction_details": "Constructed from cotton or cotton-blend poplin or broadcloth. Features collar construction with interfacing, button placket, barrel or French cuffs, yoke for shoulder shaping.",
+      "key_features": "Collar and cuffs designed to be worn with ties and jackets, longer tail for tucking, formal button placket",
+      "historical_context": "Evolved from undergarments to become essential business wear. White dress shirt remains the most formal option.",
+      "styling_tips": "White and light blue are most versatile colors. Collar should fit with room for two fingers. Cuffs should extend 1-1.5cm beyond jacket sleeve.",
+      "image_url": null
+    },
+    {
+      "name": "Dress Trousers",
+      "description": "Formal pants designed to pair with suit jackets or blazers",
+      "garment_type": "Trousers",
+      "formality_level": "Business",
+      "construction_details": "Tailored fit through waist, hips, and legs. Features include waistband with hook-and-bar closure, belt loops or side adjusters, front pleats (optional), back pockets, crease pressed down center front and back.",
+      "key_features": "Can be flat-front or pleated, break determines length, cuffs optional, typically wool or wool-blend",
+      "historical_context": "Separated from suit concept in mid-20th century allowing mix-and-match business attire. Pleats more traditional, flat-front more modern.",
+      "styling_tips": "Length should create slight break on shoes for formal wear, no break for modern slim fit. Pleats should lay flat when standing.",
+      "image_url": null
+    },
+    {
+      "name": "Blazer",
+      "description": "Structured jacket in solid color or pattern, less formal than suit jacket",
+      "garment_type": "Outerwear",
+      "formality_level": "Business",
+      "construction_details": "Similar construction to suit jacket but often unlined or half-lined. May have metal buttons (naval style) or standard buttons. Less rigid structuring than formal suits.",
+      "key_features": "Patch pockets common, metal buttons optional, navy blue most traditional, can be worn with non-matching trousers",
+      "historical_context": "Originated from British navy jackets. Became preppy American staple in mid-20th century. Now bridge between formal and casual wear.",
+      "styling_tips": "Navy blazer with grey trousers is classic combination. Can be dressed up with tie or down without. Versatile for business casual environments.",
+      "image_url": null
+    },
+    {
+      "name": "Overcoat",
+      "description": "Long formal coat worn over suits for warmth in cold weather",
+      "garment_type": "Outerwear",
+      "formality_level": "Formal",
+      "construction_details": "Constructed from heavy wool, often with lining and possible interlining for warmth. Extends below knee for traditional style, mid-thigh for modern cuts. Set-in sleeves with room for layering.",
+      "key_features": "Full-length (past knee), formal appearance, structured shoulders, often features back vent for movement",
+      "historical_context": "Essential garment of 19th and early 20th centuries before heated transportation. Remains formal cold-weather outerwear.",
+      "styling_tips": "Should have room to layer suit jacket underneath comfortably. Charcoal, navy, and camel are most versatile colors. Length depends on height and proportion.",
+      "image_url": null
+    },
+    {
+      "name": "Waistcoat/Vest",
+      "description": "Sleeveless garment worn over shirt and under jacket in three-piece suits",
+      "garment_type": "Outerwear",
+      "formality_level": "Formal",
+      "construction_details": "Tailored to fit closely to torso. Back typically lined silk or satin with adjustable strap for fit. Front matches suit fabric. Five or six buttons typical.",
+      "key_features": "No collar (typically), V-neck front, adjustable back strap, formal or casual depending on styling",
+      "historical_context": "Originally called waistcoat in UK, vest in US. Part of classic three-piece suit. Became optional in 20th century casual evolution.",
+      "styling_tips": "Bottom button traditionally left unbuttoned. Should cover waistband completely when standing. Can be worn without jacket in business casual settings.",
+      "image_url": null
+    }
+  ]
+}
