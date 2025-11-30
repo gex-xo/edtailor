@@ -65,7 +65,10 @@ def load_json_file(filepath):
 async def seed_categories_and_content(session: AsyncSession):
     """Seed English categories, topics, and lessons."""
     print_info("Loading educational content...")
-    data = load_json_file('scripts/seed_data/educational_content.json')
+    # Try enhanced content first, fall back to basic if not found
+    data = load_json_file('scripts/seed_data/educational_content_enhanced.json')
+    if not data:
+        data = load_json_file('scripts/seed_data/educational_content.json')
     if data:
         await seed_categories_and_content_from_data(session, data)
 
@@ -73,7 +76,10 @@ async def seed_categories_and_content(session: AsyncSession):
 async def seed_fabrics(session: AsyncSession):
     """Seed English fabric library."""
     print_info("Loading fabrics...")
-    data = load_json_file('scripts/seed_data/fabrics.json')
+    # Try enhanced fabrics first, fall back to basic if not found
+    data = load_json_file('scripts/seed_data/fabrics_enhanced.json')
+    if not data:
+        data = load_json_file('scripts/seed_data/fabrics.json')
     if data:
         await seed_fabrics_from_data(session, data)
 
@@ -81,7 +87,10 @@ async def seed_fabrics(session: AsyncSession):
 async def seed_garments(session: AsyncSession):
     """Seed English garment encyclopedia."""
     print_info("Loading garments...")
-    data = load_json_file('scripts/seed_data/garments.json')
+    # Try enhanced garments first, fall back to basic if not found
+    data = load_json_file('scripts/seed_data/garments_enhanced.json')
+    if not data:
+        data = load_json_file('scripts/seed_data/garments.json')
     if data:
         await seed_garments_from_data(session, data)
 
@@ -89,7 +98,10 @@ async def seed_garments(session: AsyncSession):
 async def seed_terms(session: AsyncSession):
     """Seed English terminology glossary."""
     print_info("Loading terms...")
-    data = load_json_file('scripts/seed_data/terms.json')
+    # Try enhanced terms first, fall back to basic if not found
+    data = load_json_file('scripts/seed_data/terms_enhanced.json')
+    if not data:
+        data = load_json_file('scripts/seed_data/terms.json')
     if data:
         await seed_terms_from_data(session, data)
 
@@ -114,7 +126,10 @@ async def seed_all_languages(session: AsyncSession):
 async def seed_categories_and_content_ru(session: AsyncSession):
     """Seed Russian categories, topics, and lessons."""
     print_info("Loading Russian educational content...")
-    data = load_json_file('scripts/seed_data/educational_content_ru.json')
+    # Try enhanced content first, fall back to basic if not found
+    data = load_json_file('scripts/seed_data/educational_content_enhanced_ru.json')
+    if not data:
+        data = load_json_file('scripts/seed_data/educational_content_ru.json')
     if data:
         await seed_categories_and_content_from_data(session, data)
 
@@ -122,7 +137,10 @@ async def seed_categories_and_content_ru(session: AsyncSession):
 async def seed_fabrics_ru(session: AsyncSession):
     """Seed Russian fabric library."""
     print_info("Loading Russian fabrics...")
-    data = load_json_file('scripts/seed_data/fabrics_ru.json')
+    # Try enhanced fabrics first, fall back to basic if not found
+    data = load_json_file('scripts/seed_data/fabrics_enhanced_ru.json')
+    if not data:
+        data = load_json_file('scripts/seed_data/fabrics_ru.json')
     if data:
         await seed_fabrics_from_data(session, data)
 
@@ -130,7 +148,10 @@ async def seed_fabrics_ru(session: AsyncSession):
 async def seed_garments_ru(session: AsyncSession):
     """Seed Russian garment encyclopedia."""
     print_info("Loading Russian garments...")
-    data = load_json_file('scripts/seed_data/garments_ru.json')
+    # Try enhanced garments first, fall back to basic if not found
+    data = load_json_file('scripts/seed_data/garments_enhanced_ru.json')
+    if not data:
+        data = load_json_file('scripts/seed_data/garments_ru.json')
     if data:
         await seed_garments_from_data(session, data)
 
@@ -138,7 +159,10 @@ async def seed_garments_ru(session: AsyncSession):
 async def seed_terms_ru(session: AsyncSession):
     """Seed Russian terminology glossary."""
     print_info("Loading Russian terms...")
-    data = load_json_file('scripts/seed_data/terms_ru.json')
+    # Try enhanced terms first, fall back to basic if not found
+    data = load_json_file('scripts/seed_data/terms_enhanced_ru.json')
+    if not data:
+        data = load_json_file('scripts/seed_data/terms_ru.json')
     if data:
         await seed_terms_from_data(session, data)
 

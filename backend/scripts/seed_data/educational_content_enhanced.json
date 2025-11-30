@@ -1,0 +1,217 @@
+{
+  "categories": [
+    {
+      "name": "Tailoring Fundamentals",
+      "slug": "tailoring-fundamentals",
+      "description": "Master the essential skills and techniques that form the foundation of professional tailoring",
+      "language": "en",
+      "icon_url": "https://source.unsplash.com/200x200/?sewing,needle"
+    },
+    {
+      "name": "Fabrics & Materials",
+      "slug": "fabrics-materials",
+      "description": "Comprehensive guide to understanding fabric types, properties, and their applications in garment making",
+      "language": "en",
+      "icon_url": "https://source.unsplash.com/200x200/?fabric,textile"
+    },
+    {
+      "name": "Garment Construction",
+      "slug": "garment-construction",
+      "description": "Learn professional techniques for constructing well-fitted, durable garments from start to finish",
+      "language": "en",
+      "icon_url": "https://source.unsplash.com/200x200/?suit,jacket"
+    },
+    {
+      "name": "Pattern Making & Design",
+      "slug": "pattern-making-design",
+      "description": "Create custom patterns and understand the principles of garment design and fit",
+      "language": "en",
+      "icon_url": "https://source.unsplash.com/200x200/?pattern,design"
+    },
+    {
+      "name": "Alterations & Fitting",
+      "slug": "alterations-fitting",
+      "description": "Perfect the fit of garments through professional alteration and fitting techniques",
+      "language": "en",
+      "icon_url": "https://source.unsplash.com/200x200/?tailor,measuring"
+    },
+    {
+      "name": "Advanced Techniques",
+      "slug": "advanced-techniques",
+      "description": "Master sophisticated tailoring methods used in bespoke and haute couture",
+      "language": "en",
+      "icon_url": "https://source.unsplash.com/200x200/?bespoke,luxury"
+    }
+  ],
+  "topics": [
+    {
+      "category_slug": "tailoring-fundamentals",
+      "name": "Essential Hand Stitches",
+      "slug": "essential-hand-stitches",
+      "description": "Master the fundamental hand stitching techniques every tailor must know",
+      "language": "en"
+    },
+    {
+      "category_slug": "tailoring-fundamentals",
+      "name": "Taking Measurements",
+      "slug": "taking-measurements",
+      "description": "Learn precise measurement techniques for custom-fitted garments",
+      "language": "en"
+    },
+    {
+      "category_slug": "tailoring-fundamentals",
+      "name": "Pressing Techniques",
+      "slug": "pressing-techniques",
+      "description": "Professional pressing methods for crisp edges and smooth finishes",
+      "language": "en"
+    },
+    {
+      "category_slug": "tailoring-fundamentals",
+      "name": "Tools of the Trade",
+      "slug": "tools-of-trade",
+      "description": "Essential tools and equipment for professional tailoring work",
+      "language": "en"
+    },
+    {
+      "category_slug": "fabrics-materials",
+      "name": "Natural Fibers",
+      "slug": "natural-fibers",
+      "description": "Understanding wool, cotton, silk, and linen properties",
+      "language": "en"
+    },
+    {
+      "category_slug": "fabrics-materials",
+      "name": "Synthetic & Blended Fabrics",
+      "slug": "synthetic-blended",
+      "description": "Working with polyester, nylon, and fabric blends",
+      "language": "en"
+    },
+    {
+      "category_slug": "fabrics-materials",
+      "name": "Fabric Grain & Drape",
+      "slug": "fabric-grain-drape",
+      "description": "Understanding fabric structure and how it affects garment construction",
+      "language": "en"
+    },
+    {
+      "category_slug": "garment-construction",
+      "name": "Jacket Construction",
+      "slug": "jacket-construction",
+      "description": "Building a structured suit jacket from start to finish",
+      "language": "en"
+    },
+    {
+      "category_slug": "garment-construction",
+      "name": "Trouser Making",
+      "slug": "trouser-making",
+      "description": "Professional techniques for constructing well-fitted trousers",
+      "language": "en"
+    },
+    {
+      "category_slug": "garment-construction",
+      "name": "Shirt Construction",
+      "slug": "shirt-construction",
+      "description": "Creating dress shirts with professional finishing",
+      "language": "en"
+    },
+    {
+      "category_slug": "pattern-making-design",
+      "name": "Basic Pattern Drafting",
+      "slug": "basic-pattern-drafting",
+      "description": "Learn to create foundational patterns from measurements",
+      "language": "en"
+    },
+    {
+      "category_slug": "pattern-making-design",
+      "name": "Pattern Modification",
+      "slug": "pattern-modification",
+      "description": "Adapt existing patterns for different styles and fits",
+      "language": "en"
+    },
+    {
+      "category_slug": "alterations-fitting",
+      "name": "Common Alterations",
+      "slug": "common-alterations",
+      "description": "Master the most frequently requested garment alterations",
+      "language": "en"
+    },
+    {
+      "category_slug": "alterations-fitting",
+      "name": "Fitting Principles",
+      "slug": "fitting-principles",
+      "description": "Understanding how garments should fit the body",
+      "language": "en"
+    },
+    {
+      "category_slug": "advanced-techniques",
+      "name": "Pad Stitching & Canvas Work",
+      "slug": "pad-stitching-canvas",
+      "description": "Traditional hand-sewn canvas construction for jacket fronts",
+      "language": "en"
+    },
+    {
+      "category_slug": "advanced-techniques",
+      "name": "Bound Buttonholes",
+      "slug": "bound-buttonholes",
+      "description": "Creating elegant bound buttonholes by hand",
+      "language": "en"
+    }
+  ],
+  "lessons": [
+    {
+      "topic_slug": "essential-hand-stitches",
+      "title": "Mastering the Basting Stitch",
+      "slug": "mastering-basting-stitch",
+      "summary": "Learn the temporary running stitch used for fitting and preparation",
+      "content": "## Introduction to Basting\n\nBasting is a temporary running stitch with long, easily removable stitches. It's essential for holding fabric in place during fittings and before permanent stitching.\n\n## When to Use Basting\n\n- **Fittings**: Hold seams together temporarily to check fit\n- **Matching patterns**: Align plaids or stripes precisely\n- **Easing fullness**: Distribute fabric evenly before permanent sewing\n- **Marking**: Transfer pattern markings to fabric\n\n## Technique\n\n1. Thread your needle with contrasting thread for visibility\n2. Use stitches 1/4 to 1/2 inch long\n3. Keep tension loose for easy removal\n4. Don't backstitch at the ends\n\n## Pro Tips\n\n- Use a different color thread than your final garment\n- Make stitches slightly longer than regular running stitches\n- Always remove basting before final pressing\n- For slippery fabrics, use silk thread which won't leave marks",
+      "reading_time_minutes": 8,
+      "difficulty_level": "Beginner",
+      "language": "en",
+      "image_url": "https://source.unsplash.com/800x600/?hand,sewing,needle"
+    },
+    {
+      "topic_slug": "essential-hand-stitches",
+      "title": "The Slip Stitch: Invisible Hems",
+      "slug": "slip-stitch-invisible-hems",
+      "summary": "Create nearly invisible hems and closures with the slip stitch technique",
+      "content": "## What is a Slip Stitch?\n\nThe slip stitch is an nearly invisible hand stitch used to join two folded edges or attach a folded edge to flat fabric. It's the secret to professional-looking hems.\n\n## Applications\n\n- **Hemming**: Trousers, skirts, jacket linings\n- **Linings**: Attaching linings invisibly\n- **Patch pockets**: Securing pockets without visible stitching\n- **Repairs**: Closing openings after turning garments right-side out\n\n## The Technique\n\n1. Hide the knot inside the fold\n2. Bring needle out through the folded edge\n3. Pick up 1-2 threads of the base fabric directly opposite\n4. Slide needle through the fold for 1/4 inch\n5. Repeat, keeping stitches small and even\n\n## Achieving Invisibility\n\n- Use thread that matches your fabric exactly\n- Keep stitches small (1/4 inch or less)\n- Don't pull thread too tight\n- Pick up only 1-2 fabric threads on each stitch\n\n## Common Mistakes to Avoid\n\n- Pulling stitches too tight (causes puckering)\n- Using contrasting thread\n- Taking too much fabric on each stitch\n- Making stitches too long",
+      "reading_time_minutes": 10,
+      "difficulty_level": "Beginner",
+      "language": "en",
+      "image_url": "https://source.unsplash.com/800x600/?sewing,hem,thread"
+    },
+    {
+      "topic_slug": "taking-measurements",
+      "title": "Measuring for a Bespoke Suit",
+      "slug": "measuring-bespoke-suit",
+      "summary": "Professional measurement techniques for creating perfectly fitted suits",
+      "content": "## The Art of Measurement\n\nPrecise measurements are the foundation of custom tailoring. A well-fitted suit begins with accurate measurements taken in the correct order and position.\n\n## Essential Measurements\n\n### Upper Body\n- **Chest**: Around fullest part, under arms, tape slightly loose\n- **Waist**: Natural waistline, relaxed posture\n- **Shoulder**: Across back from shoulder point to shoulder point\n- **Sleeve length**: From shoulder seam to wrist bone, arm slightly bent\n- **Back length**: From base of neck to waist\n\n### Lower Body\n- **Waist**: For trousers, where they will sit\n- **Seat**: Around fullest part of buttocks\n- **Outseam**: Side of leg from waist to floor\n- **Inseam**: Inside leg from crotch to ankle\n- **Thigh**: Around fullest part of thigh\n\n## Professional Tips\n\n1. **Client posture**: Have client stand naturally, not stiffly\n2. **Consistent tape tension**: Not too tight, not too loose\n3. **Record everything**: Note posture issues, one shoulder higher, etc.\n4. **Multiple measurements**: Measure twice, cut once\n5. **Client preferences**: Ask about fit preferences (closer vs. more room)\n\n## Common Challenges\n\n- **Asymmetrical bodies**: Measure both sides separately\n- **Posture issues**: Note rounded shoulders, forward head\n- **Weight fluctuations**: Ask about stability\n\n## The Fitting Process\n\nMeasurements are just the start. Plan for:\n- First fitting: Basted garment, check overall fit\n- Second fitting: Refined adjustments\n- Final fitting: Minor tweaks only",
+      "reading_time_minutes": 15,
+      "difficulty_level": "Intermediate",
+      "language": "en",
+      "image_url": "https://source.unsplash.com/800x600/?tailor,measuring,tape"
+    },
+    {
+      "topic_slug": "pressing-techniques",
+      "title": "The Art of Professional Pressing",
+      "slug": "art-professional-pressing",
+      "summary": "Master pressing techniques that separate amateur from professional tailoring",
+      "content": "## Why Pressing Matters\n\n\"Sewing is 10% stitching, 90% pressing\" - old tailor's saying. Professional pressing creates sharp edges, sets seams, and shapes fabric into three-dimensional forms.\n\n## Press vs. Iron\n\n### Pressing\n- Lift iron up and down\n- Apply pressure straight down\n- Use steam generously\n- Shapes and sets fabric\n\n### Ironing\n- Slide iron back and forth\n- Can stretch and distort fabric\n- Use for final finishing only\n\n## Essential Equipment\n\n1. **Professional iron**: Heavy, lots of steam\n2. **Pressing cloth**: Protects fabric from shine\n3. **Tailor's ham**: For curved seams and darts\n4. **Sleeve board**: For narrow areas\n5. **Seam roll**: Prevents seam impressions\n6. **Clapper**: Sets creases in wool\n\n## Technique by Fabric\n\n### Wool\n- Use lots of steam\n- Press with grain\n- Use clapper for sharp creases\n- Always use pressing cloth\n\n### Cotton\n- High heat acceptable\n- Can press directly (no cloth)\n- Use spray starch for crispness\n\n### Silk\n- Low to medium heat\n- Pressing cloth essential\n- Never use steam directly\n- Press from wrong side\n\n### Synthetics\n- Low heat only\n- Test on scrap first\n- Use pressing cloth\n- Minimal steam\n\n## The Pressing Sequence\n\n1. Press fabric before cutting\n2. Press seams as you sew\n3. Press seams flat (closed)\n4. Press seams open\n5. Use appropriate shaping tools\n6. Final press when garment is complete\n\n## Creating Shape\n\nPressing isn't just about flat seams:\n- **Sleeve caps**: Steam and shrink fullness over ham\n- **Lapels**: Roll and press to create soft roll line\n- **Chest**: Steam and shape front over ham\n- **Trouser creases**: Press, pound with clapper, let cool completely",
+      "reading_time_minutes": 12,
+      "difficulty_level": "Intermediate",
+      "language": "en",
+      "image_url": "https://source.unsplash.com/800x600/?iron,pressing,steam"
+    },
+    {
+      "topic_slug": "pad-stitching-canvas",
+      "title": "Traditional Pad Stitching for Jacket Fronts",
+      "slug": "traditional-pad-stitching",
+      "summary": "Learn the hallmark of bespoke tailoring: hand-sewn canvas construction",
+      "content": "## What is Pad Stitching?\n\nPad stitching is a diagonal basting stitch used to attach canvas interlining to fashion fabric, creating the characteristic roll of lapels and collar. It's the hallmark of true bespoke tailoring.\n\n## Why Pad Stitch?\n\n- **Creates shape**: Permanently sets the roll line in lapels\n- **Adds body**: Gives structure without stiffness\n- **Allows flexibility**: Garment molds to wearer's body over time\n- **Superior to fusing**: More durable, better drape, breathable\n\n## Materials Needed\n\n- **Hair canvas**: Traditional blend of horsehair and wool\n- **Silk thread**: Strong yet fine, won't show through\n- **Tailor's chalk**: For marking roll lines\n- **Curved needle**: Easier for pad stitching technique\n\n## The Technique\n\n### Preparing the Canvas\n\n1. Cut canvas to jacket front pattern\n2. Mark roll line with tailor's chalk\n3. Layer canvas between fashion fabric and lining\n\n### Pad Stitching Method\n\n1. **Starting position**: Begin at roll line, work toward outer edge\n2. **Stitch formation**:\n   - Take small diagonal stitches (1/4 inch long)\n   - Pick up only 1-2 threads of fashion fabric\n   - Go through full canvas thickness\n   - Angle stitches toward roll line\n\n3. **Spacing**: Rows about 1/2 inch apart\n4. **Tension**: Firm but not tight\n5. **Direction**: Always stitch toward the roll line\n\n## Creating the Roll\n\n### Lapel Roll\n- Pad stitch on both sides of roll line\n- Angle changes at roll line (creates permanent fold)\n- More stitching = firmer roll\n- Steam and shape over tailor's ham\n\n### Collar Roll\n- Similar technique to lapels\n- Shape over curved surface while stitching\n- Roll should be gentle, not creased\n\n## Tips for Success\n\n1. **Take your time**: This can't be rushed\n2. **Consistent tension**: Practice makes perfect\n3. **Hidden stitches**: Should be invisible from right side\n4. **Shape as you go**: Use steam and pressing\n5. **Test on scraps**: Practice the technique first\n\n## Time Investment\n\nPad stitching a jacket front takes 6-8 hours. This is why bespoke jackets cost more than fused alternatives.\n\n## Modern Alternatives\n\n- **Fusible canvas**: Quick but less flexible\n- **Half-canvas**: Canvas in chest area only\n- **Full canvas with machine**: Faster but less shaping ability\n\nNone match the quality and longevity of traditional pad stitching.\n\n## Quality Indicators\n\nWell-pad-stitched lapels:\n- Roll smoothly without creasing\n- Return to shape after handling\n- Maintain roll for decades\n- Feel soft and pliable, not stiff",
+      "reading_time_minutes": 20,
+      "difficulty_level": "Advanced",
+      "language": "en",
+      "image_url": "https://source.unsplash.com/800x600/?tailor,hand-sewing,craftsmanship"
+    }
+  ]
+}

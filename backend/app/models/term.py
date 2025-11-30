@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Text, DateTime
+from sqlalchemy import Column, Integer, String, Text, DateTime, UniqueConstraint
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from app.core.database import Base
@@ -9,9 +9,12 @@ class Term(Base):
     """Glossary of fashion and tailoring terminology."""
 
     __tablename__ = "terms"
+    __table_args__ = (
+        UniqueConstraint('term', 'language', name='uq_term_language'),
+    )
 
     id = Column(Integer, primary_key=True, index=True)
-    term = Column(String(200), unique=True, nullable=False, index=True)
+    term = Column(String(200), nullable=False, index=True)
     definition = Column(Text, nullable=False)
     category = Column(String(100), nullable=True)  # Construction, Design, Tailoring
     pronunciation = Column(String(200), nullable=True)

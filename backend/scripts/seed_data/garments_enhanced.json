@@ -1,0 +1,160 @@
+{
+  "garments": [
+    {
+      "name": "Single-Breasted Suit Jacket",
+      "description": "Classic jacket with one row of buttons and overlapping front panels, the foundation of modern menswear",
+      "garment_type": "Outerwear",
+      "formality_level": "Formal",
+      "construction_details": "Structured with canvas interlining (full, half, or fused), pad-stitched lapels, functional sleeve buttonholes. Features chest pocket, flap pockets, and internal pockets. Shoulder construction can be natural, roped, or padded depending on style.",
+      "key_features": "Notch or peak lapels, 1-3 button configuration (2-button most common), center vent or side vents, structured shoulders, working sleeve buttons in bespoke",
+      "historical_context": "Evolved from military and riding coats in 19th century. Modern single-breasted jacket became standard business attire in 20th century, replacing more formal frock coats.",
+      "styling_tips": "Two-button jackets most versatile for business. Fasten only top button when standing. Jacket should lightly kiss shoulders when worn. Sleeve should show 1/4-1/2 inch of shirt cuff.",
+      "image_url": "https://source.unsplash.com/800x600/?suit,jacket,businessman,formal",
+      "language": "en"
+    },
+    {
+      "name": "Double-Breasted Jacket",
+      "description": "Formal jacket with two parallel rows of buttons and wide overlap, power dressing staple",
+      "garment_type": "Outerwear",
+      "formality_level": "Formal",
+      "construction_details": "Similar construction to single-breasted but with wider front overlap requiring additional fabric. Peak lapels most common. Requires precise button balance and placement. Often features ticket pocket.",
+      "key_features": "4-6 buttons (usually 6x2 or 4x2 configuration), peak lapels standard, wide front overlap, more formal appearance, military heritage visible in structure",
+      "historical_context": "Originally military and naval uniform. Became civilian formal wear in 1930s-40s. Revived in 1980s power dressing. Now seen as bold, confident choice.",
+      "styling_tips": "Keep buttoned when standing (unlike single-breasted). Best worn by taller men due to visual weight. Extremely formal and authoritative appearance. Pairs well with high-waisted trousers.",
+      "image_url": "https://source.unsplash.com/800x600/?double-breasted,jacket,formal,suit",
+      "language": "en"
+    },
+    {
+      "name": "Tuxedo Jacket (Dinner Jacket)",
+      "description": "Formal evening jacket with satin or grosgrain facings, worn with bow tie for black-tie events",
+      "garment_type": "Formalwear",
+      "formality_level": "Black Tie",
+      "construction_details": "Similar to suit jacket but with silk facings on lapels, pocket besom, and buttons. Side adjusters on trousers instead of belt loops. Single-breasted with shawl, peak, or notch lapels (shawl most formal).",
+      "key_features": "Silk facings, satin or grosgrain, covered buttons, single button closure, no vents (traditional), worn with pleated or piqué front shirt",
+      "historical_context": "Developed in 1860s as less formal alternative to tailcoat for dinner at home. Named after Tuxedo Park, NY where it became popular in America. Now standard black-tie attire.",
+      "styling_tips": "Always black or midnight blue. Wear with bow tie (never necktie). Single button, always fastened. Patent leather shoes. White pocket square. Understated elegance is key.",
+      "image_url": "https://source.unsplash.com/800x600/?tuxedo,black-tie,formal,bow-tie",
+      "language": "en"
+    },
+    {
+      "name": "Dress Shirt",
+      "description": "Formal shirt designed to wear with suits or under jackets, featuring structured collar and cuffs",
+      "garment_type": "Shirt",
+      "formality_level": "Business Formal",
+      "construction_details": "Made from cotton or cotton blend, poplin or broadcloth. Features collar with interfacing, button placket, button or French cuffs, shoulder yoke for shape. Longer shirttail for tucking.",
+      "key_features": "Structured collar, formal button placket, barrel or French cuffs, longer length for tucking, fine fabrics",
+      "historical_context": "Evolved from undergarment to visible garment. White dress shirt remains most formal option. Collar styles changed with tie fashions through 20th century.",
+      "styling_tips": "White and light blue most versatile colors. Collar should fit with room for two fingers. Cuffs should extend 1/4-1/2 inch beyond jacket sleeve. Iron for crisp appearance.",
+      "image_url": "https://source.unsplash.com/800x600/?dress-shirt,white-shirt,formal,business",
+      "language": "en"
+    },
+    {
+      "name": "Oxford Cloth Button-Down (OCBD)",
+      "description": "Casual shirt with soft button-down collar, American Ivy League staple",
+      "garment_type": "Shirt",
+      "formality_level": "Business Casual",
+      "construction_details": "Made from oxford cloth (basket weave cotton), features buttoned-down collar points, chest pocket (typically), soft unlined collar. Box pleat in back for movement.",
+      "key_features": "Button-down collar, oxford cloth fabric, soft unstructured collar, chest pocket, casual elegance",
+      "historical_context": "Collar buttons invented by Brooks Brothers in 1896 after polo players' collars. Became Ivy League uniform. Now smart-casual standard.",
+      "styling_tips": "Can be worn with or without tie. Works under blazers or alone. White and blue most classic. Slight collar roll is characteristic and desirable.",
+      "image_url": "https://source.unsplash.com/800x600/?oxford-shirt,button-down,casual,shirt",
+      "language": "en"
+    },
+    {
+      "name": "Dress Trousers",
+      "description": "Formal trousers designed to pair with jackets or blazers, featuring refined cut and details",
+      "garment_type": "Trousers",
+      "formality_level": "Business Formal",
+      "construction_details": "Tailored fit through waist, seat, and leg. Include waistband with hook-and-bar closure, belt loops or side adjusters, front pleats (optional), rear pockets, pressed center creases front and back.",
+      "key_features": "Can be flat-front or pleated, break determines length, cuffs optional, usually wool or wool blend, pressed creases",
+      "historical_context": "Separated from suit concept in mid-20th century, allowing business casual mix-and-match. Pleats more traditional, flat-front more modern.",
+      "styling_tips": "Length should create slight break on shoes for formal wear, no break for modern slim fit. Pleats should lie flat when standing. Cuffs add weight and formality.",
+      "image_url": "https://source.unsplash.com/800x600/?trousers,dress-pants,formal,menswear",
+      "language": "en"
+    },
+    {
+      "name": "Chinos",
+      "description": "Casual cotton twill trousers, bridge between jeans and dress trousers",
+      "garment_type": "Trousers",
+      "formality_level": "Smart Casual",
+      "construction_details": "Made from cotton twill, flat-front or single pleat, slanted front pockets, welt or flap back pockets. Lighter construction than dress trousers but more refined than jeans.",
+      "key_features": "Cotton twill fabric, casual styling, versatile color options (khaki, navy, olive), relaxed but tailored fit",
+      "historical_context": "Originally military wear (British and US armies in tropical climates). Name from Chinese twill fabric. Became American casual staple in mid-20th century.",
+      "styling_tips": "Navy and khaki most versatile. Pair with blazers for smart-casual or polo shirts for casual. Can be cuffed or uncuffed. Fit should be clean but not tight.",
+      "image_url": "https://source.unsplash.com/800x600/?chinos,khaki,casual,trousers",
+      "language": "en"
+    },
+    {
+      "name": "Waistcoat (Vest)",
+      "description": "Sleeveless garment worn over shirt and under jacket in three-piece suits",
+      "garment_type": "Outerwear",
+      "formality_level": "Formal",
+      "construction_details": "Tailored to fit close to torso. Back usually silk or satin with adjustable strap for fit. Front matches suit fabric. Usually five or six buttons. No collar (usually), V-neck front.",
+      "key_features": "Collarless (typically), V-neck front, adjustable back strap, formal or casual depending on style",
+      "historical_context": "Originally called waistcoat in Britain, vest in US. Part of classic three-piece suit. Became optional as casual dress evolved in 20th century.",
+      "styling_tips": "Bottom button traditionally left unfastened. Should fully cover waistband when standing. Can be worn without jacket in business casual settings. Adds formality and warmth.",
+      "image_url": "https://source.unsplash.com/800x600/?waistcoat,vest,three-piece,suit",
+      "language": "en"
+    },
+    {
+      "name": "Overcoat",
+      "description": "Long formal coat worn over suits for warmth in cold weather",
+      "garment_type": "Outerwear",
+      "formality_level": "Formal",
+      "construction_details": "Made from heavy wool, often with lining and possible interlining for warmth. Extends below knee for traditional style, mid-thigh for modern cuts. Set-in sleeves with room for layers. Often features back vent for movement.",
+      "key_features": "Full length (past knee), formal appearance, structured shoulders, often features back vent for movement, heavy wool construction",
+      "historical_context": "Essential garment of 19th and early 20th centuries before heated transportation. Remains cold weather formal outerwear standard.",
+      "styling_tips": "Should have room to comfortably wear suit jacket underneath. Charcoal, navy, and camel most versatile colors. Length depends on height and proportions. Single or double-breasted both acceptable.",
+      "image_url": "https://source.unsplash.com/800x600/?overcoat,coat,winter,formal",
+      "language": "en"
+    },
+    {
+      "name": "Trench Coat",
+      "description": "Water-resistant coat with military origins, featuring distinctive details like epaulettes and belted waist",
+      "garment_type": "Outerwear",
+      "formality_level": "Smart Casual",
+      "construction_details": "Originally cotton gabardine (Burberry) or ventile cotton. Features double-breasted front, belted waist, shoulder epaulettes, back yoke with rain shield, wrist straps. Modern versions may use synthetic water-resistant fabrics.",
+      "key_features": "Double-breasted, belted, epaulettes, storm flap, D-rings, raglan or set-in sleeves, knee-length or longer",
+      "historical_context": "Designed by Burberry and Aquascutum for WWI British officers. Military details remain: epaulettes for rank insignia, D-rings for equipment. Became civilian classic after the war.",
+      "styling_tips": "Beige/khaki most classic but navy works well. Belt can be tied or buckled. Works over suits or with jeans. Timeless style that works formal or casual.",
+      "image_url": "https://source.unsplash.com/800x600/?trench-coat,raincoat,beige,coat",
+      "language": "en"
+    },
+    {
+      "name": "Blazer",
+      "description": "Structured jacket in solid color or pattern, less formal than suit jacket but more refined than sport coat",
+      "garment_type": "Outerwear",
+      "formality_level": "Smart Casual",
+      "construction_details": "Similar construction to suit jacket but often unlined or half-lined. Can have metal buttons (nautical style) or standard buttons. Less rigid structure than formal suits.",
+      "key_features": "Patch pockets common, metal buttons optional, navy most traditional, can wear with non-matching trousers, versatile styling",
+      "historical_context": "Originated from British naval jackets. Became American preppy staple mid-20th century. Now bridges formal and casual dress.",
+      "styling_tips": "Navy blazer with gray trousers is classic combination. Can dress up with tie or down without. Versatile for business casual settings. Gold or silver buttons add nautical flair.",
+      "image_url": "https://source.unsplash.com/800x600/?blazer,navy,jacket,casual",
+      "language": "en"
+    },
+    {
+      "name": "Sports Jacket",
+      "description": "Casual jacket in textured or patterned fabric, most relaxed tailored jacket option",
+      "garment_type": "Outerwear",
+      "formality_level": "Casual",
+      "construction_details": "Softer construction than suit jackets, often unlined or partially lined. Made from textured fabrics like tweed, corduroy, or linen. Patch pockets common. More relaxed fit.",
+      "key_features": "Textured or patterned fabrics, patch pockets, casual styling, softer construction, country or weekend wear associations",
+      "historical_context": "Originally for country sports and weekend wear, distinct from town business suits. Tweed jackets particularly associated with British country life.",
+      "styling_tips": "Pairs with jeans or chinos for weekend wear. Tweed for fall/winter, linen or cotton for spring/summer. Can have elbow patches for extra country character. Most casual tailored option.",
+      "image_url": "https://source.unsplash.com/800x600/?tweed,sport-coat,casual,jacket",
+      "language": "en"
+    },
+    {
+      "name": "Polo Shirt",
+      "description": "Knitted cotton shirt with collar and placket, combining comfort with smart appearance",
+      "garment_type": "Shirt",
+      "formality_level": "Smart Casual",
+      "construction_details": "Knitted from cotton piqué or jersey. Features ribbed collar and sleeve cuffs, 2-3 button placket. Side vents for comfort. Can have chest pocket.",
+      "key_features": "Knit construction, collar, button placket, comfortable, casual but refined",
+      "historical_context": "Invented by René Lacoste in 1926 for tennis. Replaced woven tennis shirts. Became preppy American staple and smart-casual standard worldwide.",
+      "styling_tips": "Tucked or untucked depending on formality. Works under blazers or alone. Solid colors most versatile. Fit should be trim but not tight. Collar should maintain shape.",
+      "image_url": "https://source.unsplash.com/800x600/?polo-shirt,casual,shirt,sport",
+      "language": "en"
+    }
+  ]
+}

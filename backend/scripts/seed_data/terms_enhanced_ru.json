@@ -1,0 +1,444 @@
+{
+  "terms": [
+    {
+      "term": "Наметка",
+      "definition": "Временная строчка длинными, легко удаляемыми стежками для удержания ткани на месте во время примерки или перед постоянным шитьем. Незаменима для переделок и индивидуального портновства.",
+      "category": "Конструирование",
+      "pronunciation": "na-MYO-tka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,hand,stitch",
+      "language": "ru"
+    },
+    {
+      "term": "Горловина",
+      "definition": "Шов, где воротник пиджака встречается с лацканом. Высота и угол горловины значительно влияют на стиль и формальность пиджака.",
+      "category": "Портновство",
+      "pronunciation": "gor-lo-VEE-na",
+      "image_url": "https://source.unsplash.com/600x400/?suit,lapel,jacket",
+      "language": "ru"
+    },
+    {
+      "term": "Пройма",
+      "definition": "Отверстие пиджака или рубашки, где прикрепляется рукав. Правильное измерение и конструкция проймы крайне важны для комфорта и диапазона движения.",
+      "category": "Портновство",
+      "pronunciation": "PRO-y-ma",
+      "image_url": "https://source.unsplash.com/600x400/?jacket,sleeve,shoulder",
+      "language": "ru"
+    },
+    {
+      "term": "Залом",
+      "definition": "Насколько штанина брюк ложится на обувь. Варианты включают без залома (современный, короче), легкий залом (современный), средний залом (традиционный), или полный залом (одна полная складка на обуви).",
+      "category": "Портновство",
+      "pronunciation": "za-LOM",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Приталивание",
+      "definition": "Портновская техника сужения или стягивания талии пиджака для создания более выраженного V-образного силуэта и подчеркивания торса.",
+      "category": "Переделки",
+      "pronunciation": "pri-ta-li-VA-ni-ye",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Пришивание прокладки",
+      "definition": "Техника ручного шитья с использованием небольших диагональных стежков для прикрепления прокладки к ткани, создавая залом и форму в лацканах и воротниках. Признак качественного портновства.",
+      "category": "Конструирование",
+      "pronunciation": "pri-shi-VA-ni-ye pro-KLAD-ki",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Бортовка",
+      "definition": "Слой жесткой ткани (традиционно из конского волоса и шерсти), размещенный между внешней тканью и подкладкой пиджака для обеспечения структуры и формы. Полная бортовка простирается по всей груди; половинная бортовка только в области груди; клеевая использует клеевую прокладку вместо этого.",
+      "category": "Конструирование",
+      "pronunciation": "bor-TOV-ka",
+      "image_url": "https://source.unsplash.com/600x400/?canvas,tailoring,construction",
+      "language": "ru"
+    },
+    {
+      "term": "Косая",
+      "definition": "Диагональное направление ткани под углом 45 градусов к кромке. Ткань, вырезанная по косой, имеет максимальную растяжимость и драпировку, используется для окантовки краев и создания текучих изделий.",
+      "category": "Конструирование",
+      "pronunciation": "ko-SA-ya",
+      "image_url": "https://source.unsplash.com/600x400/?fabric,weave,texture",
+      "language": "ru"
+    },
+    {
+      "term": "Кромка",
+      "definition": "Законченный край тканого полотна, который идет параллельно нитям основы. Не осыпается и указывает на прямое зерно ткани.",
+      "category": "Конструирование",
+      "pronunciation": "KROM-ka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Долевая",
+      "definition": "Направление нитей в тканом полотне. Продольная долевая идет параллельно кромке (нити основы), поперечная долевая идет перпендикулярно кромке (нити утка), а косая - диагональ.",
+      "category": "Конструирование",
+      "pronunciation": "do-lye-VA-ya",
+      "image_url": "https://source.unsplash.com/600x400/?fabric,weave,texture",
+      "language": "ru"
+    },
+    {
+      "term": "Ворс",
+      "definition": "Поднятая поверхность на ткани, созданная концами волокон, дающая направленную текстуру. Бархат, вельвет и некоторые шерсти имеют ворс. Все детали выкройки должны быть вырезаны в одном направлении для постоянного внешнего вида.",
+      "category": "Конструирование",
+      "pronunciation": "VORS",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Надсечка",
+      "definition": "Небольшой V-образный разрез в припуске шва, используемый для маркировки размещения выкройки или подрезки изгибов. Также относится к стилю английского лацкана, где воротник и лацкан встречаются под углом.",
+      "category": "Конструирование",
+      "pronunciation": "nad-SECH-ka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Пиковый лацкан",
+      "definition": "Стиль лацкана, где концы лацкана направлены вверх к плечу. Более формален, чем английский лацкан, часто встречается на двубортных пиджаках и смокингах.",
+      "category": "Дизайн",
+      "pronunciation": "PEE-ko-vy la-tsan",
+      "image_url": "https://source.unsplash.com/600x400/?suit,lapel,jacket",
+      "language": "ru"
+    },
+    {
+      "term": "Шальный воротник",
+      "definition": "Закругленный воротник и лацкан, вырезанные как одна непрерывная деталь без шва горловины. Самый формальный стиль лацкана, обычно встречается на смокингах и курительных пиджаках.",
+      "category": "Дизайн",
+      "pronunciation": "SHAL-ny vo-rot-NIK",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Планка",
+      "definition": "Открытие или разрез в одежде, обычно с обработанными краями. Распространена на передах рубашек (планка для пуговиц), манжетах и вырезах.",
+      "category": "Конструирование",
+      "pronunciation": "PLAN-ka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Кокетка",
+      "definition": "Приталенная часть одежды на плечах или бедрах, от которой свисает остальная часть одежды. Кокетки рубашек обеспечивают форму плеча и декоративную деталь.",
+      "category": "Конструирование",
+      "pronunciation": "ko-KYE-tka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Ластовица",
+      "definition": "Треугольный или ромбовидный кусок ткани, вставленный для добавления прочности или обеспечения движения в областях нагрузки, таких как подмышки или промежность.",
+      "category": "Конструирование",
+      "pronunciation": "las-to-VEE-tsa",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Прокладка",
+      "definition": "Слой ткани, помещенный между внешней тканью и подкладкой для добавления структуры, поддержки и формы. Может быть пришивной или клеевой (приглаживаемой). Незаменима в воротниках, манжетах и поясах.",
+      "category": "Конструирование",
+      "pronunciation": "pro-KLAD-ka",
+      "image_url": "https://source.unsplash.com/600x400/?canvas,tailoring,construction",
+      "language": "ru"
+    },
+    {
+      "term": "Подкладочная ткань",
+      "definition": "Слой ткани, вырезанный идентично деталям изделия и обрабатываемый как один с основной тканью во время конструирования. Добавляет тело и структуру по всему изделию.",
+      "category": "Конструирование",
+      "pronunciation": "pod-KLA-doch-na-ya TKAN",
+      "image_url": "https://source.unsplash.com/600x400/?fabric,weave,texture",
+      "language": "ru"
+    },
+    {
+      "term": "Градуирование швов",
+      "definition": "Обрезка припусков швов до разной ширины для уменьшения объема, особенно важно в изогнутых швах и толстых тканях. Создает более гладкие, плоские швы.",
+      "category": "Конструирование",
+      "pronunciation": "gra-du-i-RO-va-ni-ye SHVOV",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Посадка",
+      "definition": "Дополнительная полнота, введенная в шов для создания формы без сборок или вытачек. Незаменима для втачивания рукавов и создания изогнутых швов. Также относится к посадочной свободе - дополнительное пространство сверх мерок тела для комфорта и движения.",
+      "category": "Конструирование",
+      "pronunciation": "po-SAD-ka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Заказной пошив",
+      "definition": "Изготовленная на заказ одежда, созданная с нуля для индивидуального клиента с несколькими примерками. Настоящий заказной пошив включает ручную раскройку выкройки и значительную ручную работу. Высший уровень индивидуального портновства.",
+      "category": "Портновство",
+      "pronunciation": "za-kaz-NOY PO-shiv",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Пошив по меркам",
+      "definition": "Одежда, созданная из существующей выкройки, скорректированной под индивидуальные мерки. Менее дорого, чем заказной пошив с меньшим количеством примерок, но все еще индивидуализировано для клиента.",
+      "category": "Портновство",
+      "pronunciation": "PO-shiv po MER-kam",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Отделочная строчка",
+      "definition": "Декоративная техника ручного шитья, создающая небольшие, равномерно расположенные стежки вдоль краев лацканов и карманов. Признак качественного портновства и ручной отделки.",
+      "category": "Портновство",
+      "pronunciation": "ot-DYE-loch-na-ya STROCH-ka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Вытачка",
+      "definition": "Треугольная складка ткани, застроченная для создания формы и контура. Вытачки убирают лишнюю ткань и помогают изделию принимать форму изгибов тела.",
+      "category": "Конструирование",
+      "pronunciation": "VY-tach-ka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,dart,pattern",
+      "language": "ru"
+    },
+    {
+      "term": "Складка",
+      "definition": "Складка ткани, добавляющая полноту или создающая дизайнерскую деталь. Может быть заутюженной (односторонняя, бантовая) или незаутюженной (мягкая складка). Распространена на брюках и юбках.",
+      "category": "Конструирование",
+      "pronunciation": "SKLAT-ka",
+      "image_url": "https://source.unsplash.com/600x400/?pleat,trousers,fabric",
+      "language": "ru"
+    },
+    {
+      "term": "Припуск на шов",
+      "definition": "Область между линией шва и необработанным краем ткани. Стандартные припуски варьируются по типу изделия и методу шитья, обычно от 1,2 до 1,5 см.",
+      "category": "Конструирование",
+      "pronunciation": "pri-PUSK na SHOV",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,seam,edge",
+      "language": "ru"
+    },
+    {
+      "term": "Потайная строчка по припуску",
+      "definition": "Строчка через обтачку и припуски на швы близко к линии шва, предотвращающая выворачивание обтачки на лицевую сторону изделия. Невидима с лицевой стороны.",
+      "category": "Конструирование",
+      "pronunciation": "po-TAY-na-ya STROCH-ka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,technique,seam",
+      "language": "ru"
+    },
+    {
+      "term": "Закрепочная строчка",
+      "definition": "Одна линия строчки внутри припуска на шов на изогнутых или косых краях для предотвращения растяжения во время конструирования. Выполняется сразу после раскроя.",
+      "category": "Конструирование",
+      "pronunciation": "za-krye-POCH-na-ya STROCH-ka",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,fabric,edge",
+      "language": "ru"
+    },
+    {
+      "term": "Французский шов",
+      "definition": "Закрытый шов, где необработанные края полностью заключены. Создает чистую отделку с обеих сторон. Идеален для прозрачных тканей и двусторонних изделий.",
+      "category": "Конструирование",
+      "pronunciation": "fran-TSUZ-kiy SHOV",
+      "image_url": "https://source.unsplash.com/600x400/?seam,sewing,finish",
+      "language": "ru"
+    },
+    {
+      "term": "Запошивочный шов",
+      "definition": "Прочный, плоский шов, где один припуск на шов закрывает другой. Видимая отделочная строчка. Распространен в джинсах и рабочей одежде.",
+      "category": "Конструирование",
+      "pronunciation": "za-po-shi-VOCH-ny SHOV",
+      "image_url": "https://source.unsplash.com/600x400/?jeans,seam,denim",
+      "language": "ru"
+    },
+    {
+      "term": "Нить для петель",
+      "definition": "Прочная нить, используемая для выметывания петель, декоративной отделочной строчки и пришивания пуговиц. Прочнее и толще обычной швейной нити.",
+      "category": "Материалы",
+      "pronunciation": "NIT' dlya PYE-tel",
+      "image_url": "https://source.unsplash.com/600x400/?thread,button,sewing",
+      "language": "ru"
+    },
+    {
+      "term": "Обметочная петля",
+      "definition": "Портновская петля с обтачанным тканью отверстием, а не застроченными краями. Признак качественного портновства. Более трудоемкая чем машинные петли.",
+      "category": "Портновство",
+      "pronunciation": "ob-MYOT-och-na-ya pyet-LYA",
+      "image_url": "https://source.unsplash.com/600x400/?buttonhole,tailoring,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Карман с листочкой",
+      "definition": "Портновский карман с обтачанным тканью отверстием, создающий чистую линию. Распространен на пиджаках и классических брюках. Может быть одинарная или двойная листочка.",
+      "category": "Портновство",
+      "pronunciation": "kar-MAN s lis-TOCH-koy",
+      "image_url": "https://source.unsplash.com/600x400/?pocket,suit,jacket",
+      "language": "ru"
+    },
+    {
+      "term": "Карман с клапаном",
+      "definition": "Карман с тканевым клапаном, закрывающим отверстие. Наиболее распространенный на пиджаках. Клапан может быть заправлен внутрь кармана для более чистой линии.",
+      "category": "Портновство",
+      "pronunciation": "kar-MAN s KLA-pa-nom",
+      "image_url": "https://source.unsplash.com/600x400/?flap-pocket,jacket,suit",
+      "language": "ru"
+    },
+    {
+      "term": "Накладной карман",
+      "definition": "Карман, пришитый на внешнюю сторону изделия. Самый повседневный стиль кармана. Распространен на блейзерах, спортивных пиджаках и повседневных рубашках.",
+      "category": "Портновство",
+      "pronunciation": "na-klad-NOY kar-MAN",
+      "image_url": "https://source.unsplash.com/600x400/?patch-pocket,blazer,casual",
+      "language": "ru"
+    },
+    {
+      "term": "Билетный карман",
+      "definition": "Маленький карман над обычным карманом на правой стороне пиджака. Изначально для железнодорожных билетов. Теперь декоративная деталь, ассоциируемая с британским портновством.",
+      "category": "Портновство",
+      "pronunciation": "bi-LYET-ny kar-MAN",
+      "image_url": "https://source.unsplash.com/600x400/?ticket-pocket,jacket,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Прорезной карман",
+      "definition": "Карман с узким отверстием листочкой, чище чем карман с клапаном. Распространен на формальной одежде и смокингах. Американский термин для кармана с листочкой.",
+      "category": "Портновство",
+      "pronunciation": "pro-rye-ZNOY kar-MAN",
+      "image_url": "https://source.unsplash.com/600x400/?welt-pocket,formal,tuxedo",
+      "language": "ru"
+    },
+    {
+      "term": "Нагрудный карман",
+      "definition": "Карман на левой груди пиджака для платка. Должен быть функциональным, не только декоративной листочкой. Глубина и угол влияют на отображение платка.",
+      "category": "Портновство",
+      "pronunciation": "na-GRUD-ny kar-MAN",
+      "image_url": "https://source.unsplash.com/600x400/?breast-pocket,pocket-square,jacket",
+      "language": "ru"
+    },
+    {
+      "term": "Шлицы",
+      "definition": "Разрезы внизу сзади пиджака, позволяющие движение и комфорт при сидении. Варианты: без шлицы (формально, американское), центральная шлица (распространенное, американское), боковые шлицы (британское, наиболее лестное).",
+      "category": "Портновство",
+      "pronunciation": "SHLI-tsy",
+      "image_url": "https://source.unsplash.com/600x400/?jacket,back,vent",
+      "language": "ru"
+    },
+    {
+      "term": "Рабочие петли",
+      "definition": "Функциональные петли на рукавах пиджака, в отличие от декоративных зашитых пуговиц. Признак качественного портновства, позволяет регулировку манжет.",
+      "category": "Портновство",
+      "pronunciation": "ra-BO-chi-ye PYE-tli",
+      "image_url": "https://source.unsplash.com/600x400/?sleeve,buttons,jacket",
+      "language": "ru"
+    },
+    {
+      "term": "Манжеты хирурга",
+      "definition": "Рукава пиджака с рабочими петлями, которые действительно расстегиваются, позволяя закатать рукава. Изначально для хирургов, теперь роскошная деталь.",
+      "category": "Портновство",
+      "pronunciation": "man-ZHYE-ty hi-RUR-ga",
+      "image_url": "https://source.unsplash.com/600x400/?cuff,buttons,sleeve",
+      "language": "ru"
+    },
+    {
+      "term": "Целующиеся пуговицы",
+      "definition": "Пуговицы на рукавах, расположенные так близко, что они касаются или почти касаются. Деталь, ассоциируемая с итальянским портновством.",
+      "category": "Портновство",
+      "pronunciation": "tse-LU-yush-chi-ye-sya PU-go-vi-tsy",
+      "image_url": "https://source.unsplash.com/600x400/?buttons,sleeve,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Валик на плече",
+      "definition": "Головка рукава с выраженным валиком или канатообразным видом на плечевом шве. Британская портновская особенность, создает драматический силуэт.",
+      "category": "Портновство",
+      "pronunciation": "VA-lik na ple-CHE",
+      "image_url": "https://source.unsplash.com/600x400/?shoulder,jacket,british",
+      "language": "ru"
+    },
+    {
+      "term": "Естественное плечо",
+      "definition": "Минимальная подплечник и мягкая конструкция плеча, следующая естественной линии тела. Американский стиль Ivy League, противоположность структурированному европейскому плечу.",
+      "category": "Портновство",
+      "pronunciation": "yes-TVES-tven-no-ye ple-CHO",
+      "image_url": "https://source.unsplash.com/600x400/?natural,shoulder,ivy",
+      "language": "ru"
+    },
+    {
+      "term": "Плечо пагода",
+      "definition": "Резко выкроенное плечо с определенной, расширенной линией плеча. Ассоциируется с костюмами власти 1980-х и итальянским портновством.",
+      "category": "Портновство",
+      "pronunciation": "ple-CHO pa-GO-da",
+      "image_url": "https://source.unsplash.com/600x400/?shoulder,structured,power-suit",
+      "language": "ru"
+    },
+    {
+      "term": "Четвертная подкладка",
+      "definition": "Частичная подкладка, покрывающая только верхнюю спину пиджака. Обеспечивает структуру где нужно, сохраняя пиджак легче и прохладнее. Распространена в летних пиджаках.",
+      "category": "Конструирование",
+      "pronunciation": "chet-VYORT-na-ya pod-KLAD-ka",
+      "image_url": "https://source.unsplash.com/600x400/?lining,jacket,summer",
+      "language": "ru"
+    },
+    {
+      "term": "Половинная подкладка",
+      "definition": "Подкладка, покрывающая верхнюю спину и простирающаяся до середины спины. Прохладнее полной подкладки, обеспечивая структуру. Популярна в повседневных и летних пиджаках.",
+      "category": "Конструирование",
+      "pronunciation": "po-lo-VIN-na-ya pod-KLAD-ka",
+      "image_url": "https://source.unsplash.com/600x400/?lining,jacket,casual",
+      "language": "ru"
+    },
+    {
+      "term": "Плавающая бортовка",
+      "definition": "Слой бортовки, свободно прикрепленный к ткани пиджака с помощью пришивания прокладки, а не приклеенный. Позволяет ткани двигаться естественно, создавая лучшую драпировку и долговечность.",
+      "category": "Конструирование",
+      "pronunciation": "PLA-va-yush-cha-ya bor-TOV-ka",
+      "image_url": "https://source.unsplash.com/600x400/?canvas,tailoring,construction",
+      "language": "ru"
+    },
+    {
+      "term": "Миланская петля",
+      "definition": "Ручная петля с формой замочной скважины на одном конце, позволяющая ножке пуговицы сидеть удобно. Признак истинного заказного портновства.",
+      "category": "Портновство",
+      "pronunciation": "mi-LAN-ska-ya pyet-LYA",
+      "image_url": "https://source.unsplash.com/600x400/?buttonhole,bespoke,hand-sewn",
+      "language": "ru"
+    },
+    {
+      "term": "Строчка AMF",
+      "definition": "Машинная строчка, имитирующая ручное пришивание. Названа в честь компании American Machine & Foundry. Используется в готовой одежде для имитации заказного вида.",
+      "category": "Конструирование",
+      "pronunciation": "STROCH-ka a-em-EF",
+      "image_url": "https://source.unsplash.com/600x400/?stitching,lapel,detail",
+      "language": "ru"
+    },
+    {
+      "term": "Линия перегиба",
+      "definition": "Линия, где лацкан естественно отгибается от тела пиджака. Создается через пришивание прокладки и отпаривание. Определяет характер и вид лацкана.",
+      "category": "Портновство",
+      "pronunciation": "LI-ni-ya pere-GI-ba",
+      "image_url": "https://source.unsplash.com/600x400/?lapel,roll,jacket",
+      "language": "ru"
+    },
+    {
+      "term": "Spalla Camicia",
+      "definition": "Итальянское 'рукав рубашки'. Метод конструирования рукава пиджака, где рукав прикрепляется как рукав рубашки, создавая мягкое, естественное плечо.",
+      "category": "Портновство",
+      "pronunciation": "SPAL-la ka-MI-cha",
+      "image_url": "https://source.unsplash.com/600x400/?italian,shoulder,soft",
+      "language": "ru"
+    },
+    {
+      "term": "Заказной пошив (Bespoke)",
+      "definition": "Изготовленная на заказ одежда, созданная с нуля для индивидуального клиента с множественными примерками. Истинный заказной пошив включает ручной раскрой выкройки и значительную ручную работу. Высший уровень индивидуального портновства.",
+      "category": "Портновство",
+      "pronunciation": "za-kaz-NOY PO-shiv",
+      "image_url": "https://source.unsplash.com/600x400/?bespoke,tailoring,luxury",
+      "language": "ru"
+    },
+    {
+      "term": "Пошив по меркам (Made-to-Measure)",
+      "definition": "Одежда, созданная из существующей выкройки, скорректированной под индивидуальные мерки. Менее дорого чем заказной пошив с меньшим количеством примерок, но все еще индивидуализировано для клиента.",
+      "category": "Портновство",
+      "pronunciation": "PO-shiv po MER-kam",
+      "image_url": "https://source.unsplash.com/600x400/?measuring,tailor,custom",
+      "language": "ru"
+    }
+  ]
+}

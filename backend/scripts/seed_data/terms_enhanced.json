@@ -1,0 +1,436 @@
+{
+  "terms": [
+    {
+      "term": "Basting",
+      "definition": "Temporary running stitch with long, easily removable stitches used to hold fabric in place during fittings or before permanent stitching. Essential for alterations and bespoke tailoring.",
+      "category": "Construction",
+      "pronunciation": "BAY-sting",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,hand,stitch",
+      "language": "en"
+    },
+    {
+      "term": "Gorge",
+      "definition": "The seam where the collar of a jacket meets the lapel. The height and angle of the gorge significantly affects the jacket's style and formality.",
+      "category": "Tailoring",
+      "pronunciation": "GORJ",
+      "image_url": "https://source.unsplash.com/600x400/?suit,lapel,jacket",
+      "language": "en"
+    },
+    {
+      "term": "Armscye",
+      "definition": "The armhole opening of a jacket or shirt where the sleeve attaches. Proper armscye measurement and construction is crucial for comfort and range of motion.",
+      "category": "Tailoring",
+      "pronunciation": "ARM-sigh",
+      "image_url": "https://source.unsplash.com/600x400/?jacket,sleeve,shoulder",
+      "language": "en"
+    },
+    {
+      "term": "Break",
+      "definition": "How much the trouser leg drapes onto the shoe. Options include no break (modern, shorter), slight break (contemporary), medium break (traditional), or full break (one full fold at shoe).",
+      "category": "Tailoring",
+      "pronunciation": "BRAYK",
+      "image_url": "https://source.unsplash.com/600x400/?trousers,shoes,pants",
+      "language": "en"
+    },
+    {
+      "term": "Suppression",
+      "definition": "The tailoring technique of tapering or taking in the waist of a jacket to create a more pronounced V-shape silhouette and emphasize the torso.",
+      "category": "Alterations",
+      "pronunciation": "suh-PREH-shun",
+      "image_url": "https://source.unsplash.com/600x400/?suit,fit,tailor",
+      "language": "en"
+    },
+    {
+      "term": "Pad Stitching",
+      "definition": "Hand-sewing technique using small diagonal stitches to attach canvas to fabric, creating the break and shape in lapels and collars. Hallmark of quality tailoring.",
+      "category": "Construction",
+      "pronunciation": "PAD STICH-ing",
+      "image_url": "https://source.unsplash.com/600x400/?hand-sewing,craftsmanship,tailor",
+      "language": "en"
+    },
+    {
+      "term": "Canvas",
+      "definition": "Layer of stiff fabric (traditionally horsehair and wool) placed between outer fabric and lining of a jacket to provide structure and shape. Full canvas extends throughout chest; half canvas only in chest area; fused uses glued interlining instead.",
+      "category": "Construction",
+      "pronunciation": "KAN-vuhs",
+      "image_url": "https://source.unsplash.com/600x400/?fabric,tailoring,structure",
+      "language": "en"
+    },
+    {
+      "term": "Bias",
+      "definition": "Diagonal direction of fabric at 45-degree angle to selvedge. Fabric cut on bias has maximum stretch and drape, used for binding edges and creating flowing garments.",
+      "category": "Construction",
+      "pronunciation": "BY-us",
+      "image_url": "https://source.unsplash.com/600x400/?fabric,diagonal,texture",
+      "language": "en"
+    },
+    {
+      "term": "Selvedge",
+      "definition": "The finished edge of woven cloth that runs parallel to warp threads. Doesn't fray and indicates straight grain of fabric.",
+      "category": "Construction",
+      "pronunciation": "SEL-vij",
+      "image_url": "https://source.unsplash.com/600x400/?fabric,edge,weave",
+      "language": "en"
+    },
+    {
+      "term": "Grain",
+      "definition": "Direction of threads in woven cloth. Lengthwise grain runs parallel to selvedge (warp threads), crosswise grain runs perpendicular to selvedge (weft threads), and bias is diagonal.",
+      "category": "Construction",
+      "pronunciation": "GRAYN",
+      "image_url": "https://source.unsplash.com/600x400/?fabric,weave,thread",
+      "language": "en"
+    },
+    {
+      "term": "Nap",
+      "definition": "Raised surface on fabric created by fiber ends, giving directional texture. Velvet, corduroy, and some wools have nap. All pattern pieces must be cut in same direction for consistent appearance.",
+      "category": "Construction",
+      "pronunciation": "NAP",
+      "image_url": "https://source.unsplash.com/600x400/?velvet,fabric,texture",
+      "language": "en"
+    },
+    {
+      "term": "Notch",
+      "definition": "Small V-shaped cut in seam allowance used to mark pattern placement or clip curves. Also refers to notch lapel style where collar and lapel meet at angle.",
+      "category": "Construction",
+      "pronunciation": "NOCH",
+      "image_url": "https://source.unsplash.com/600x400/?lapel,jacket,notch",
+      "language": "en"
+    },
+    {
+      "term": "Peak Lapel",
+      "definition": "Lapel style where the lapel points upward toward the shoulder. More formal than notch lapel, often found on double-breasted jackets and tuxedos.",
+      "category": "Design",
+      "pronunciation": "PEEK LA-pel",
+      "image_url": "https://source.unsplash.com/600x400/?peak-lapel,formal,jacket",
+      "language": "en"
+    },
+    {
+      "term": "Shawl Collar",
+      "definition": "Rounded collar and lapel cut as one continuous piece without gorge seam. Most formal lapel style, typically seen on tuxedos and smoking jackets.",
+      "category": "Design",
+      "pronunciation": "SHAWL KAH-ler",
+      "image_url": "https://source.unsplash.com/600x400/?tuxedo,shawl-collar,formal",
+      "language": "en"
+    },
+    {
+      "term": "Placket",
+      "definition": "Opening or slit in a garment, usually with finished edges. Common on shirt fronts (button placket), cuffs, and necklines.",
+      "category": "Construction",
+      "pronunciation": "PLAK-it",
+      "image_url": "https://source.unsplash.com/600x400/?shirt,buttons,placket",
+      "language": "en"
+    },
+    {
+      "term": "Yoke",
+      "definition": "Fitted part of a garment at shoulders or hips from which the rest of the garment hangs. Shirt yokes provide shoulder shaping and decorative detail.",
+      "category": "Construction",
+      "pronunciation": "YOHK",
+      "image_url": "https://source.unsplash.com/600x400/?shirt,yoke,shoulder",
+      "language": "en"
+    },
+    {
+      "term": "Gusset",
+      "definition": "Triangular or diamond-shaped piece of fabric inserted to add strength or allow movement in stress areas such as underarms or crotch.",
+      "category": "Construction",
+      "pronunciation": "GUH-sit",
+      "image_url": "https://source.unsplash.com/600x400/?fabric,insert,construction",
+      "language": "en"
+    },
+    {
+      "term": "Interfacing",
+      "definition": "Layer of fabric placed between outer fabric and lining to add structure, support, and shape. Can be sew-in or fusible (iron-on). Essential in collars, cuffs, and waistbands.",
+      "category": "Construction",
+      "pronunciation": "IN-ter-fay-sing",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,fabric,layers",
+      "language": "en"
+    },
+    {
+      "term": "Underlining",
+      "definition": "Layer of fabric cut identically to garment pieces and treated as one with fashion fabric during construction. Adds body and structure throughout garment.",
+      "category": "Construction",
+      "pronunciation": "UN-der-ly-ning",
+      "image_url": "https://source.unsplash.com/600x400/?fabric,layers,sewing",
+      "language": "en"
+    },
+    {
+      "term": "Grading Seams",
+      "definition": "Trimming seam allowances to different widths to reduce bulk, especially important in curved seams and heavy fabrics. Creates smoother, flatter seams.",
+      "category": "Construction",
+      "pronunciation": "GRAY-ding SEEMZ",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,seam,technique",
+      "language": "en"
+    },
+    {
+      "term": "Ease",
+      "definition": "Extra fullness worked into a seam to create shape without gathers or darts. Essential for setting sleeves and creating curved seams. Also refers to wearing ease - extra room beyond body measurements for comfort and movement.",
+      "category": "Construction",
+      "pronunciation": "EEZ",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,fit,fabric",
+      "language": "en"
+    },
+    {
+      "term": "Bespoke",
+      "definition": "Custom-made clothing created from scratch for individual client with multiple fittings. True bespoke includes hand-cut pattern and significant handwork. Highest level of custom tailoring.",
+      "category": "Tailoring",
+      "pronunciation": "bih-SPOHK",
+      "image_url": "https://source.unsplash.com/600x400/?bespoke,tailoring,luxury",
+      "language": "en"
+    },
+    {
+      "term": "Made-to-Measure",
+      "definition": "Clothing created from existing pattern adjusted to individual measurements. Less expensive than bespoke with fewer fittings, but still customized to client.",
+      "category": "Tailoring",
+      "pronunciation": "MAYD-too-MEH-zher",
+      "image_url": "https://source.unsplash.com/600x400/?measuring,tailor,custom",
+      "language": "en"
+    },
+    {
+      "term": "Pick Stitching",
+      "definition": "Decorative hand-sewing technique creating small, evenly-spaced stitches along edges of lapels and pockets. Sign of quality tailoring and hand finishing.",
+      "category": "Tailoring",
+      "pronunciation": "PIK STICH-ing",
+      "image_url": "https://source.unsplash.com/600x400/?hand-stitching,detail,craftsmanship",
+      "language": "en"
+    },
+    {
+      "term": "Dart",
+      "definition": "Triangular fold of fabric stitched to create shape and contour. Darts remove excess fabric and help garment conform to body curves.",
+      "category": "Construction",
+      "pronunciation": "DART",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,dart,pattern",
+      "language": "en"
+    },
+    {
+      "term": "Pleat",
+      "definition": "Fabric fold that adds fullness or creates design detail. Can be pressed (knife pleat, box pleat) or unpressed (soft pleat). Common in trousers and skirts.",
+      "category": "Construction",
+      "pronunciation": "PLEET",
+      "image_url": "https://source.unsplash.com/600x400/?pleat,trousers,fabric",
+      "language": "en"
+    },
+    {
+      "term": "Seam Allowance",
+      "definition": "Area between seam line and raw edge of fabric. Standard allowances vary by garment type and sewing method, typically 1/2 to 5/8 inch.",
+      "category": "Construction",
+      "pronunciation": "SEEM uh-LOW-unce",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,seam,edge",
+      "language": "en"
+    },
+    {
+      "term": "Topstitching",
+      "definition": "Visible stitching on the right side of garment, usually parallel to seam or edge. Can be decorative or functional, adds strength and design element.",
+      "category": "Construction",
+      "pronunciation": "TOP-stich-ing",
+      "image_url": "https://source.unsplash.com/600x400/?topstitch,sewing,detail",
+      "language": "en"
+    },
+    {
+      "term": "Understitching",
+      "definition": "Stitching through facing and seam allowances close to seamline, preventing facing from rolling to outside of garment. Invisible from right side.",
+      "category": "Construction",
+      "pronunciation": "UN-der-stich-ing",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,technique,seam",
+      "language": "en"
+    },
+    {
+      "term": "Stay Stitching",
+      "definition": "Single line of stitching within seam allowance on curved or bias edges to prevent stretching during construction. Done immediately after cutting.",
+      "category": "Construction",
+      "pronunciation": "STAY STICH-ing",
+      "image_url": "https://source.unsplash.com/600x400/?sewing,fabric,edge",
+      "language": "en"
+    },
+    {
+      "term": "French Seam",
+      "definition": "Enclosed seam where raw edges are completely enclosed. Creates clean finish on both sides. Ideal for sheer fabrics and reversible garments.",
+      "category": "Construction",
+      "pronunciation": "FRENCH SEEM",
+      "image_url": "https://source.unsplash.com/600x400/?seam,sewing,finish",
+      "language": "en"
+    },
+    {
+      "term": "Fell Seam",
+      "definition": "Strong, flat seam where one seam allowance encloses the other. Visible topstitching. Common in jeans and workwear.",
+      "category": "Construction",
+      "pronunciation": "FEL SEEM",
+      "image_url": "https://source.unsplash.com/600x400/?jeans,seam,denim",
+      "language": "en"
+    },
+    {
+      "term": "Buttonhole Twist",
+      "definition": "Heavy-duty thread used for sewing buttonholes, decorative topstitching, and attaching buttons. Stronger and thicker than regular sewing thread.",
+      "category": "Materials",
+      "pronunciation": "BUT-un-hohl TWIST",
+      "image_url": "https://source.unsplash.com/600x400/?thread,button,sewing",
+      "language": "en"
+    },
+    {
+      "term": "Bound Buttonhole",
+      "definition": "Tailored buttonhole with fabric-bound opening rather than stitched edges. Sign of high-quality tailoring. More time-consuming than machine buttonholes.",
+      "category": "Tailoring",
+      "pronunciation": "BOWND BUT-un-hohl",
+      "image_url": "https://source.unsplash.com/600x400/?buttonhole,tailoring,detail",
+      "language": "en"
+    },
+    {
+      "term": "Welt Pocket",
+      "definition": "Tailored pocket with fabric-bound opening, creating clean line. Common on suit jackets and dress trousers. Can be single or double welt.",
+      "category": "Tailoring",
+      "pronunciation": "WELT PAH-kit",
+      "image_url": "https://source.unsplash.com/600x400/?pocket,suit,jacket",
+      "language": "en"
+    },
+    {
+      "term": "Flap Pocket",
+      "definition": "Pocket with fabric flap covering opening. Most common on suit jackets. Flap can be tucked inside pocket for cleaner line.",
+      "category": "Tailoring",
+      "pronunciation": "FLAP PAH-kit",
+      "image_url": "https://source.unsplash.com/600x400/?flap-pocket,jacket,suit",
+      "language": "en"
+    },
+    {
+      "term": "Patch Pocket",
+      "definition": "Pocket sewn onto garment exterior. Most casual pocket style. Common on blazers, sport coats, and casual shirts.",
+      "category": "Tailoring",
+      "pronunciation": "PACH PAH-kit",
+      "image_url": "https://source.unsplash.com/600x400/?patch-pocket,blazer,casual",
+      "language": "en"
+    },
+    {
+      "term": "Ticket Pocket",
+      "definition": "Small pocket above regular pocket on right side of jacket. Originally for train tickets. Now decorative detail associated with British tailoring.",
+      "category": "Tailoring",
+      "pronunciation": "TIK-it PAH-kit",
+      "image_url": "https://source.unsplash.com/600x400/?ticket-pocket,jacket,detail",
+      "language": "en"
+    },
+    {
+      "term": "Jetted Pocket",
+      "definition": "Pocket with narrow welt opening, cleaner than flap pocket. Common on formal wear and tuxedos. American term for welt pocket.",
+      "category": "Tailoring",
+      "pronunciation": "JET-id PAH-kit",
+      "image_url": "https://source.unsplash.com/600x400/?welt-pocket,formal,tuxedo",
+      "language": "en"
+    },
+    {
+      "term": "Breast Pocket",
+      "definition": "Pocket on left chest of jacket for pocket square. Should be functional, not just decorative welt. Depth and angle affect pocket square display.",
+      "category": "Tailoring",
+      "pronunciation": "BREST PAH-kit",
+      "image_url": "https://source.unsplash.com/600x400/?breast-pocket,pocket-square,jacket",
+      "language": "en"
+    },
+    {
+      "term": "Vents",
+      "definition": "Slits at bottom back of jacket allowing movement and comfort when sitting. Options: no vent (formal, American), center vent (common, American), side vents (British, most flattering).",
+      "category": "Tailoring",
+      "pronunciation": "VENTS",
+      "image_url": "https://source.unsplash.com/600x400/?jacket,back,vent",
+      "language": "en"
+    },
+    {
+      "term": "Working Buttonholes",
+      "definition": "Functional buttonholes on jacket sleeves, as opposed to decorative sewn-shut buttons. Sign of quality tailoring, allows cuff adjustments.",
+      "category": "Tailoring",
+      "pronunciation": "WER-king BUT-un-hohlz",
+      "image_url": "https://source.unsplash.com/600x400/?sleeve,buttons,jacket",
+      "language": "en"
+    },
+    {
+      "term": "Surgeon's Cuffs",
+      "definition": "Jacket sleeves with working buttonholes that actually unbutton, allowing sleeves to be rolled up. Originally for surgeons, now luxury detail.",
+      "category": "Tailoring",
+      "pronunciation": "SUR-junz KUFS",
+      "image_url": "https://source.unsplash.com/600x400/?cuff,buttons,sleeve",
+      "language": "en"
+    },
+    {
+      "term": "Kissing Buttons",
+      "definition": "Sleeve buttons placed so close together they touch or nearly touch. Detail associated with Italian tailoring.",
+      "category": "Tailoring",
+      "pronunciation": "KIS-ing BUT-unz",
+      "image_url": "https://source.unsplash.com/600x400/?buttons,sleeve,detail",
+      "language": "en"
+    },
+    {
+      "term": "Roped Shoulder",
+      "definition": "Sleeve head with pronounced roll or rope-like appearance at shoulder seam. British tailoring feature, creates dramatic silhouette.",
+      "category": "Tailoring",
+      "pronunciation": "ROHPT SHOHL-der",
+      "image_url": "https://source.unsplash.com/600x400/?shoulder,jacket,british",
+      "language": "en"
+    },
+    {
+      "term": "Natural Shoulder",
+      "definition": "Minimal padding and soft shoulder construction following body's natural line. American Ivy League style, opposite of structured European shoulder.",
+      "category": "Tailoring",
+      "pronunciation": "NACH-er-ul SHOHL-der",
+      "image_url": "https://source.unsplash.com/600x400/?natural,shoulder,ivy",
+      "language": "en"
+    },
+    {
+      "term": "Pagoda Shoulder",
+      "definition": "Sharply tailored shoulder with defined, extended shoulder line. Associated with 1980s power suits and Italian tailoring.",
+      "category": "Tailoring",
+      "pronunciation": "puh-GOH-duh SHOHL-der",
+      "image_url": "https://source.unsplash.com/600x400/?shoulder,structured,power-suit",
+      "language": "en"
+    },
+    {
+      "term": "Quarter Lining",
+      "definition": "Partial lining covering only upper back of jacket. Provides structure where needed while keeping jacket lighter and cooler. Common in summer jackets.",
+      "category": "Construction",
+      "pronunciation": "KWOR-ter LY-ning",
+      "image_url": "https://source.unsplash.com/600x400/?lining,jacket,summer",
+      "language": "en"
+    },
+    {
+      "term": "Half Lining",
+      "definition": "Lining covering upper back and extending to mid-back. Cooler than full lining while providing structure. Popular in casual and summer jackets.",
+      "category": "Construction",
+      "pronunciation": "HAF LY-ning",
+      "image_url": "https://source.unsplash.com/600x400/?lining,jacket,casual",
+      "language": "en"
+    },
+    {
+      "term": "Floating Canvas",
+      "definition": "Canvas layer attached loosely to jacket fabric with pad stitching rather than fused. Allows fabric to move naturally, creating better drape and longevity.",
+      "category": "Construction",
+      "pronunciation": "FLOH-ting KAN-vuhs",
+      "image_url": "https://source.unsplash.com/600x400/?canvas,tailoring,construction",
+      "language": "en"
+    },
+    {
+      "term": "Milanese Buttonhole",
+      "definition": "Hand-sewn buttonhole with keyhole shape at one end, allowing button shank to sit comfortably. Sign of true bespoke tailoring.",
+      "category": "Tailoring",
+      "pronunciation": "mil-uh-NEEZ BUT-un-hohl",
+      "image_url": "https://source.unsplash.com/600x400/?buttonhole,bespoke,hand-sewn",
+      "language": "en"
+    },
+    {
+      "term": "AMF Stitching",
+      "definition": "Machine stitching that mimics hand pick stitching. Named after American Machine & Foundry company. Used on ready-to-wear to simulate bespoke appearance.",
+      "category": "Construction",
+      "pronunciation": "AY-EM-EF STICH-ing",
+      "image_url": "https://source.unsplash.com/600x400/?stitching,lapel,detail",
+      "language": "en"
+    },
+    {
+      "term": "Roll Line",
+      "definition": "Line where lapel naturally folds away from jacket body. Created through pad stitching and pressing. Determines lapel character and appearance.",
+      "category": "Tailoring",
+      "pronunciation": "ROHL LINE",
+      "image_url": "https://source.unsplash.com/600x400/?lapel,roll,jacket",
+      "language": "en"
+    },
+    {
+      "term": "Spalla Camicia",
+      "definition": "Italian for 'shirt sleeve'. Jacket sleeve construction method where sleeve is attached like shirt sleeve, creating soft, natural shoulder.",
+      "category": "Tailoring",
+      "pronunciation": "SPAH-lah kah-MEE-cha",
+      "image_url": "https://source.unsplash.com/600x400/?italian,shoulder,soft",
+      "language": "en"
+    }
+  ]
+}
